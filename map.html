@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Vega-Lite Map Click Event</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <style>
+        .vega-bindings {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+            flex-wrap: nowrap;
+            justify-content: center;
+            margin-bottom: 8px;
+        }
+
+        .vega-bindings label {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            white-space: nowrap;
+        }
+
+        .vega-bindings select {
+            padding: 2px 6px;
+            height: 32px;
+        }
+    </style>
+</head>
+
+<body>
+    <div style="text-align: center; border-bottom: 1px solid black; margin-bottom: 0.5rem;">
+        <h1 style="margin: 0.5rem;">2024 Malaysia Population Statistics Visualization</h1>
+    </div>
+    <div style="border: 1px solid gray; background: #F9F9F9; border-radius: 0.5rem; padding: 0.5rem; margin-bottom: 0.5rem;">
+        Demographics are a very important statistical indicator for a country or region. This website uses Vega-Lite to visualize the population data of various districts in Malaysia with a Choropleth map, aiming to intuitively display the population of each district through spatial visualization. At the same time, you can use the dropdown menu to select different values to explore changes in population across the three dimensions of sex, age, and ethnicity.
+    </div>
+    <div id="vis" style="text-align: center; width: 100%; background: lightblue; border-radius: 0.5rem;"></div>
+    <script>
+        const spec = {
+            "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+            "width": "container",
+            "autosize": {
+                "type": "fit",
+                "contains": "padding"
+            },
+            "height": 500,
+            "background": "transparent",
+            "params": [{
+                    "name": "sexParam",
+                    "value": "both",
+                    "bind": {
+                        "input": "select",
+                        "name": "Sex: ",
+                        "options": ["both", "male", "female"]
+                    }
+                },
+                {
+                    "name": "ageParam",
+                    "value": "overall",
+                    "bind": {
+                        "input": "select",
+                        "name": "Age: ",
+                        "options": ["overall", "0-4", "5-9", "10-14", "15-19", "20-24", "25-29", "30-34", "35-39", "40-44", "45-49", "50-54", "55-59", "60-64", "65-69", "70-74", "75-79", "80-84", "85+"]
+                    }
+                },
+                {
+                    "name": "ethnicityParam",
+                    "value": "overall",
+                    "bind": {
+                        "input": "select",
+                        "name": "Ethnicity: ",
+                        "options": ["overall", "bumi_malay", "bumi_other", "chinese", "indian", "other_citizen", "other_noncitizen"]
+                    }
+                }
+            ],
+            "data": {
+                "url": "population_district_data.json"
+            },
+            "layer": [{
+                    "data": {
+                        "url": "malaysia.district.json",
+                        "format": {
+                            "type": "topojson",
+                            "feature": "malaysia.district"
+                        }
+                    },
+                    "mark": {
+                        "type": "geoshape",
+                        "stroke": "white",
+                        "strokeWidth": 0.5
+                    },
+                    "encoding": {
+                        "color": {
+                            "value": "rgba(0,0,0,0.1)"
+                        }
+                    }
+                },
+                {
+                    "transform": [{
+                            "lookup": "id",
+                            "from": {
+                                "data": {
+                                    "url": "malaysia.district.json",
+                                    "format": {
+                                        "type": "topojson",
+                                        "feature": "malaysia.district"
+                                    }
+                                },
+                                "key": "id"
+                            },
+                            "as": "geo"
+                        },
+                        {
+                            "filter": "datum.sex == sexParam && datum.age == ageParam && datum.ethnicity == ethnicityParam && datum.population != 0",
+                        }
+                    ],
+                    "projection": {
+                        "type": "mercator"
+                    },
+                    "mark": {
+                        "type": "geoshape",
+                        "stroke": "#ffffff",
+                        "strokeWidth": 0.5
+                    },
+                    "encoding": {
+                        "shape": {
+                            "field": "geo",
+                            "type": "geojson"
+                        },
+                        "color": {
+                            "condition": {
+                                "test": "isValid(datum.population)",
+                                "field": "population",
+                                "type": "quantitative",
+                                "scale": {
+                                    "range": ["lightgray", "#ff7f0e", "#1f77b4"]
+                                },
+                                "legend": {
+                                    "title": "Population",
+                                    "orient": "right",
+                                    "direction": "vertical",
+                                    "gradientLength": 500,
+                                    "labelBaseline": "middle",
+                                    "titleAlign": "center"
+                                }
+                            },
+                            "value": "#d6e6ff"
+                        },
+                        "tooltip": [{
+                                "field": "properties.name",
+                                "type": "nominal",
+                                "title": "District"
+                            },
+                            {
+                                "field": "population",
+                                "type": "quantitative",
+                                "title": "Population"
+                            },
+                            {
+                                "field": "date",
+                                "type": "nominal",
+                                "title": "Date"
+                            },
+                            {
+                                "field": "sex",
+                                "type": "nominal",
+                                "title": "Sex"
+                            },
+                            {
+                                "field": "age",
+                                "type": "nominal",
+                                "title": "Age"
+                            },
+                            {
+                                "field": "ethnicity",
+                                "type": "nominal",
+                                "title": "Ethnicity"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+
+        vegaEmbed('#vis', spec, {
+            actions: true
+        }).then(function(result) {
+            const view = result.view;
+
+            view.addSignalListener('sexParam', function(name, value) {
+                console.log('Sex parameter changed to:', value);
+                outputFilteredData(view);
+            });
+
+            view.addSignalListener('ageParam', function(name, value) {
+                console.log('Age parameter changed to:', value);
+                outputFilteredData(view);
+            });
+
+            view.addSignalListener('ethnicityParam', function(name, value) {
+                console.log('Ethnicity parameter changed to:', value);
+                outputFilteredData(view);
+            });
+
+            outputFilteredData(view);
+        });
+
+        function outputFilteredData(view) {
+            view.runAsync().then(function() {
+
+                const data = view.data('source_0');
+                console.log('Filtered data count:', data.length);
+                console.log('Filtered data:', data);
+
+                const statsDiv = document.getElementById('data-stats') || createStatsDiv();
+                statsDiv.innerHTML = `
+				<div style="font-size: 20px; font-weight: bold;">Filter Result</div>
+				<hr>
+				<div>➡️Current data rows: ${data.length}</div>
+				<div>➡️Current input params: sex=${view.signal('sexParam')}, age=${view.signal('ageParam')}, ethnicity=${view.signal('ethnicityParam')}</div>
+				<hr>
+				<details>
+					<summary>Data detail</summary>
+					<pre>${JSON.stringify(data.slice(0, 10), null, 2)}${data.length > 10 ? '\n... (Only preview the first 10 rows of data)' : ''}</pre>
+				</details>
+			`;
+            });
+        }
+
+        function createStatsDiv() {
+            const div = document.createElement('div');
+            div.id = 'data-stats';
+            div.style.cssText = 'margin-top: 0.5rem; padding: 0.5rem; border: 1px solid #ccc; background: #f9f9f9; border-radius: 5px;';
+            document.body.appendChild(div);
+            return div;
+        }
+    </script>
+</body>
+
+</html>
