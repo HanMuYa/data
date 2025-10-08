@@ -1,0 +1,2401 @@
+state,district,date,sex,age,ethnicity,population
+Johor,Batu Pahat,2020/1/1,both,overall,overall,495.3
+Johor,Batu Pahat,2020/1/1,female,overall,overall,233.7
+Johor,Batu Pahat,2020/1/1,male,overall,overall,261.6
+Johor,Johor Bahru,2020/1/1,both,overall,overall,1711.2
+Johor,Johor Bahru,2020/1/1,female,overall,overall,803.9
+Johor,Johor Bahru,2020/1/1,male,overall,overall,907.3
+Johor,Kluang,2020/1/1,both,overall,overall,323.8
+Johor,Kluang,2020/1/1,female,overall,overall,144.4
+Johor,Kluang,2020/1/1,male,overall,overall,179.3
+Johor,Kota Tinggi,2020/1/1,both,overall,overall,222.4
+Johor,Kota Tinggi,2020/1/1,female,overall,overall,104
+Johor,Kota Tinggi,2020/1/1,male,overall,overall,118.4
+Johor,Kulai,2020/1/1,both,overall,overall,329.5
+Johor,Kulai,2020/1/1,female,overall,overall,151.8
+Johor,Kulai,2020/1/1,male,overall,overall,177.7
+Johor,Mersing,2020/1/1,both,overall,overall,78.2
+Johor,Mersing,2020/1/1,female,overall,overall,36.3
+Johor,Mersing,2020/1/1,male,overall,overall,41.9
+Johor,Muar,2020/1/1,both,overall,overall,314.8
+Johor,Muar,2020/1/1,female,overall,overall,141.5
+Johor,Muar,2020/1/1,male,overall,overall,173.3
+Johor,Pontian,2020/1/1,both,overall,overall,173.3
+Johor,Pontian,2020/1/1,female,overall,overall,80.1
+Johor,Pontian,2020/1/1,male,overall,overall,93.2
+Johor,Segamat,2020/1/1,both,overall,overall,197.8
+Johor,Segamat,2020/1/1,female,overall,overall,94.6
+Johor,Segamat,2020/1/1,male,overall,overall,103.2
+Johor,Tangkak,2020/1/1,both,overall,overall,163.4
+Johor,Tangkak,2020/1/1,female,overall,overall,78.2
+Johor,Tangkak,2020/1/1,male,overall,overall,85.2
+Kedah,Baling,2020/1/1,both,overall,overall,142.6
+Kedah,Baling,2020/1/1,female,overall,overall,69.5
+Kedah,Baling,2020/1/1,male,overall,overall,73.1
+Kedah,Bandar Baharu,2020/1/1,both,overall,overall,44.4
+Kedah,Bandar Baharu,2020/1/1,female,overall,overall,21.7
+Kedah,Bandar Baharu,2020/1/1,male,overall,overall,22.7
+Kedah,Kota Setar,2020/1/1,both,overall,overall,374.1
+Kedah,Kota Setar,2020/1/1,female,overall,overall,187.9
+Kedah,Kota Setar,2020/1/1,male,overall,overall,186.1
+Kedah,Kuala Muda,2020/1/1,both,overall,overall,545
+Kedah,Kuala Muda,2020/1/1,female,overall,overall,265
+Kedah,Kuala Muda,2020/1/1,male,overall,overall,280
+Kedah,Kubang Pasu,2020/1/1,both,overall,overall,237.8
+Kedah,Kubang Pasu,2020/1/1,female,overall,overall,120.4
+Kedah,Kubang Pasu,2020/1/1,male,overall,overall,117.3
+Kedah,Kulim,2020/1/1,both,overall,overall,337.7
+Kedah,Kulim,2020/1/1,female,overall,overall,164.7
+Kedah,Kulim,2020/1/1,male,overall,overall,173
+Kedah,Langkawi,2020/1/1,both,overall,overall,94.1
+Kedah,Langkawi,2020/1/1,female,overall,overall,45.4
+Kedah,Langkawi,2020/1/1,male,overall,overall,48.7
+Kedah,Padang Terap,2020/1/1,both,overall,overall,65.7
+Kedah,Padang Terap,2020/1/1,female,overall,overall,31.5
+Kedah,Padang Terap,2020/1/1,male,overall,overall,34.2
+Kedah,Pendang,2020/1/1,both,overall,overall,98.9
+Kedah,Pendang,2020/1/1,female,overall,overall,46.4
+Kedah,Pendang,2020/1/1,male,overall,overall,52.5
+Kedah,Pokok Sena,2020/1/1,both,overall,overall,49.8
+Kedah,Pokok Sena,2020/1/1,female,overall,overall,22.6
+Kedah,Pokok Sena,2020/1/1,male,overall,overall,27.2
+Kedah,Sik,2020/1/1,both,overall,overall,67.9
+Kedah,Sik,2020/1/1,female,overall,overall,33.3
+Kedah,Sik,2020/1/1,male,overall,overall,34.7
+Kedah,Yan,2020/1/1,both,overall,overall,73.4
+Kedah,Yan,2020/1/1,female,overall,overall,35.7
+Kedah,Yan,2020/1/1,male,overall,overall,37.7
+Kelantan,Bachok,2020/1/1,both,overall,overall,157.3
+Kelantan,Bachok,2020/1/1,female,overall,overall,81.1
+Kelantan,Bachok,2020/1/1,male,overall,overall,76.2
+Kelantan,Gua Musang,2020/1/1,both,overall,overall,101.9
+Kelantan,Gua Musang,2020/1/1,female,overall,overall,47.1
+Kelantan,Gua Musang,2020/1/1,male,overall,overall,54.7
+Kelantan,Jeli,2020/1/1,both,overall,overall,54.7
+Kelantan,Jeli,2020/1/1,female,overall,overall,27.3
+Kelantan,Jeli,2020/1/1,male,overall,overall,27.4
+Kelantan,Kecil Lojing,2020/1/1,both,overall,overall,10.6
+Kelantan,Kecil Lojing,2020/1/1,female,overall,overall,5.1
+Kelantan,Kecil Lojing,2020/1/1,male,overall,overall,5.5
+Kelantan,Kota Bharu,2020/1/1,both,overall,overall,555.8
+Kelantan,Kota Bharu,2020/1/1,female,overall,overall,278
+Kelantan,Kota Bharu,2020/1/1,male,overall,overall,277.8
+Kelantan,Kuala Krai,2020/1/1,both,overall,overall,105
+Kelantan,Kuala Krai,2020/1/1,female,overall,overall,52.1
+Kelantan,Kuala Krai,2020/1/1,male,overall,overall,52.9
+Kelantan,Machang,2020/1/1,both,overall,overall,110
+Kelantan,Machang,2020/1/1,female,overall,overall,55.3
+Kelantan,Machang,2020/1/1,male,overall,overall,54.7
+Kelantan,Pasir Mas,2020/1/1,both,overall,overall,230.4
+Kelantan,Pasir Mas,2020/1/1,female,overall,overall,113.7
+Kelantan,Pasir Mas,2020/1/1,male,overall,overall,116.8
+Kelantan,Pasir Puteh,2020/1/1,both,overall,overall,136.2
+Kelantan,Pasir Puteh,2020/1/1,female,overall,overall,68.7
+Kelantan,Pasir Puteh,2020/1/1,male,overall,overall,67.4
+Kelantan,Tanah Merah,2020/1/1,both,overall,overall,150.8
+Kelantan,Tanah Merah,2020/1/1,female,overall,overall,73.3
+Kelantan,Tanah Merah,2020/1/1,male,overall,overall,77.5
+Kelantan,Tumpat,2020/1/1,both,overall,overall,179.9
+Kelantan,Tumpat,2020/1/1,female,overall,overall,90.8
+Kelantan,Tumpat,2020/1/1,male,overall,overall,89.2
+Melaka,Alor Gajah,2020/1/1,both,overall,overall,249.4
+Melaka,Alor Gajah,2020/1/1,female,overall,overall,120.6
+Melaka,Alor Gajah,2020/1/1,male,overall,overall,128.8
+Melaka,Jasin,2020/1/1,both,overall,overall,151.9
+Melaka,Jasin,2020/1/1,female,overall,overall,70.2
+Melaka,Jasin,2020/1/1,male,overall,overall,81.8
+Melaka,Melaka Tengah,2020/1/1,both,overall,overall,597.1
+Melaka,Melaka Tengah,2020/1/1,female,overall,overall,282.7
+Melaka,Melaka Tengah,2020/1/1,male,overall,overall,314.4
+Negeri Sembilan,Jelebu,2020/1/1,both,overall,overall,46.1
+Negeri Sembilan,Jelebu,2020/1/1,female,overall,overall,21
+Negeri Sembilan,Jelebu,2020/1/1,male,overall,overall,25
+Negeri Sembilan,Jempol,2020/1/1,both,overall,overall,127.2
+Negeri Sembilan,Jempol,2020/1/1,female,overall,overall,61.4
+Negeri Sembilan,Jempol,2020/1/1,male,overall,overall,65.8
+Negeri Sembilan,Kuala Pilah,2020/1/1,both,overall,overall,70.3
+Negeri Sembilan,Kuala Pilah,2020/1/1,female,overall,overall,34.3
+Negeri Sembilan,Kuala Pilah,2020/1/1,male,overall,overall,36
+Negeri Sembilan,Port Dickson,2020/1/1,both,overall,overall,128.7
+Negeri Sembilan,Port Dickson,2020/1/1,female,overall,overall,60.4
+Negeri Sembilan,Port Dickson,2020/1/1,male,overall,overall,68.3
+Negeri Sembilan,Rembau,2020/1/1,both,overall,overall,47.3
+Negeri Sembilan,Rembau,2020/1/1,female,overall,overall,23.3
+Negeri Sembilan,Rembau,2020/1/1,male,overall,overall,24
+Negeri Sembilan,Seremban,2020/1/1,both,overall,overall,692.3
+Negeri Sembilan,Seremban,2020/1/1,female,overall,overall,334.2
+Negeri Sembilan,Seremban,2020/1/1,male,overall,overall,358.1
+Negeri Sembilan,Tampin,2020/1/1,both,overall,overall,88.1
+Negeri Sembilan,Tampin,2020/1/1,female,overall,overall,41.3
+Negeri Sembilan,Tampin,2020/1/1,male,overall,overall,46.8
+Pahang,Bentong,2020/1/1,both,overall,overall,116.8
+Pahang,Bentong,2020/1/1,female,overall,overall,50.6
+Pahang,Bentong,2020/1/1,male,overall,overall,66.2
+Pahang,Bera,2020/1/1,both,overall,overall,98.1
+Pahang,Bera,2020/1/1,female,overall,overall,45.7
+Pahang,Bera,2020/1/1,male,overall,overall,52.4
+Pahang,Cameron Highlands,2020/1/1,both,overall,overall,39
+Pahang,Cameron Highlands,2020/1/1,female,overall,overall,16.8
+Pahang,Cameron Highlands,2020/1/1,male,overall,overall,22.2
+Pahang,Jerantut,2020/1/1,both,overall,overall,96
+Pahang,Jerantut,2020/1/1,female,overall,overall,44.9
+Pahang,Jerantut,2020/1/1,male,overall,overall,51.1
+Pahang,Kuantan,2020/1/1,both,overall,overall,548
+Pahang,Kuantan,2020/1/1,female,overall,overall,262.8
+Pahang,Kuantan,2020/1/1,male,overall,overall,285.2
+Pahang,Lipis,2020/1/1,both,overall,overall,96.6
+Pahang,Lipis,2020/1/1,female,overall,overall,45.4
+Pahang,Lipis,2020/1/1,male,overall,overall,51.2
+Pahang,Maran,2020/1/1,both,overall,overall,112.3
+Pahang,Maran,2020/1/1,female,overall,overall,53.6
+Pahang,Maran,2020/1/1,male,overall,overall,58.7
+Pahang,Pekan,2020/1/1,both,overall,overall,121.2
+Pahang,Pekan,2020/1/1,female,overall,overall,55.8
+Pahang,Pekan,2020/1/1,male,overall,overall,65.4
+Pahang,Raub,2020/1/1,both,overall,overall,96.1
+Pahang,Raub,2020/1/1,female,overall,overall,45.2
+Pahang,Raub,2020/1/1,male,overall,overall,50.9
+Pahang,Rompin,2020/1/1,both,overall,overall,98.1
+Pahang,Rompin,2020/1/1,female,overall,overall,44.6
+Pahang,Rompin,2020/1/1,male,overall,overall,53.5
+Pahang,Temerloh,2020/1/1,both,overall,overall,169
+Pahang,Temerloh,2020/1/1,female,overall,overall,81.7
+Pahang,Temerloh,2020/1/1,male,overall,overall,87.3
+Perak,Bagan Datuk,2020/1/1,both,overall,overall,82.8
+Perak,Bagan Datuk,2020/1/1,female,overall,overall,36.9
+Perak,Bagan Datuk,2020/1/1,male,overall,overall,45.9
+Perak,Batang Padang,2020/1/1,both,overall,overall,124
+Perak,Batang Padang,2020/1/1,female,overall,overall,57.1
+Perak,Batang Padang,2020/1/1,male,overall,overall,66.9
+Perak,Hilir Perak,2020/1/1,both,overall,overall,142
+Perak,Hilir Perak,2020/1/1,female,overall,overall,66.1
+Perak,Hilir Perak,2020/1/1,male,overall,overall,75.9
+Perak,Hulu Perak,2020/1/1,both,overall,overall,95.1
+Perak,Hulu Perak,2020/1/1,female,overall,overall,45.7
+Perak,Hulu Perak,2020/1/1,male,overall,overall,49.4
+Perak,Kampar,2020/1/1,both,overall,overall,98.7
+Perak,Kampar,2020/1/1,female,overall,overall,48.2
+Perak,Kampar,2020/1/1,male,overall,overall,50.5
+Perak,Kerian,2020/1/1,both,overall,overall,166.4
+Perak,Kerian,2020/1/1,female,overall,overall,80.7
+Perak,Kerian,2020/1/1,male,overall,overall,85.7
+Perak,Kinta,2020/1/1,both,overall,overall,888.8
+Perak,Kinta,2020/1/1,female,overall,overall,427.9
+Perak,Kinta,2020/1/1,male,overall,overall,460.8
+Perak,Kuala Kangsar,2020/1/1,both,overall,overall,176.1
+Perak,Kuala Kangsar,2020/1/1,female,overall,overall,86.7
+Perak,Kuala Kangsar,2020/1/1,male,overall,overall,89.3
+Perak,Larut Dan Matang,2020/1/1,both,overall,overall,269.6
+Perak,Larut Dan Matang,2020/1/1,female,overall,overall,129.8
+Perak,Larut Dan Matang,2020/1/1,male,overall,overall,139.8
+Perak,Manjung,2020/1/1,both,overall,overall,247
+Perak,Manjung,2020/1/1,female,overall,overall,113.9
+Perak,Manjung,2020/1/1,male,overall,overall,133.1
+Perak,Muallim,2020/1/1,both,overall,overall,76.7
+Perak,Muallim,2020/1/1,female,overall,overall,40
+Perak,Muallim,2020/1/1,male,overall,overall,36.7
+Perak,Perak Tengah,2020/1/1,both,overall,overall,94.6
+Perak,Perak Tengah,2020/1/1,female,overall,overall,45.8
+Perak,Perak Tengah,2020/1/1,male,overall,overall,48.8
+Perak,Selama,2020/1/1,both,overall,overall,34.4
+Perak,Selama,2020/1/1,female,overall,overall,17
+Perak,Selama,2020/1/1,male,overall,overall,17.4
+Perlis,Perlis,2020/1/1,both,overall,overall,284.9
+Perlis,Perlis,2020/1/1,female,overall,overall,142.5
+Perlis,Perlis,2020/1/1,male,overall,overall,142.3
+Pulau Pinang,Barat Daya,2020/1/1,both,overall,overall,237.7
+Pulau Pinang,Barat Daya,2020/1/1,female,overall,overall,117.5
+Pulau Pinang,Barat Daya,2020/1/1,male,overall,overall,120.2
+Pulau Pinang,Seberang Perai Selatan,2020/1/1,both,overall,overall,184
+Pulau Pinang,Seberang Perai Selatan,2020/1/1,female,overall,overall,91.2
+Pulau Pinang,Seberang Perai Selatan,2020/1/1,male,overall,overall,92.8
+Pulau Pinang,Seberang Perai Tengah,2020/1/1,both,overall,overall,423
+Pulau Pinang,Seberang Perai Tengah,2020/1/1,female,overall,overall,198.3
+Pulau Pinang,Seberang Perai Tengah,2020/1/1,male,overall,overall,224.7
+Pulau Pinang,Seberang Perai Utara,2020/1/1,both,overall,overall,339.1
+Pulau Pinang,Seberang Perai Utara,2020/1/1,female,overall,overall,166.6
+Pulau Pinang,Seberang Perai Utara,2020/1/1,male,overall,overall,172.4
+Pulau Pinang,Timur Laut,2020/1/1,both,overall,overall,556.6
+Pulau Pinang,Timur Laut,2020/1/1,female,overall,overall,274.1
+Pulau Pinang,Timur Laut,2020/1/1,male,overall,overall,282.4
+Sabah,Beaufort,2020/1/1,both,overall,overall,75.7
+Sabah,Beaufort,2020/1/1,female,overall,overall,37
+Sabah,Beaufort,2020/1/1,male,overall,overall,38.8
+Sabah,Beluran,2020/1/1,both,overall,overall,77.1
+Sabah,Beluran,2020/1/1,female,overall,overall,35.5
+Sabah,Beluran,2020/1/1,male,overall,overall,41.7
+Sabah,Kalabakan,2020/1/1,both,overall,overall,48.2
+Sabah,Kalabakan,2020/1/1,female,overall,overall,21.7
+Sabah,Kalabakan,2020/1/1,male,overall,overall,26.5
+Sabah,Keningau,2020/1/1,both,overall,overall,150.9
+Sabah,Keningau,2020/1/1,female,overall,overall,73
+Sabah,Keningau,2020/1/1,male,overall,overall,78
+Sabah,Kinabatangan,2020/1/1,both,overall,overall,143.1
+Sabah,Kinabatangan,2020/1/1,female,overall,overall,63.5
+Sabah,Kinabatangan,2020/1/1,male,overall,overall,79.6
+Sabah,Kota Belud,2020/1/1,both,overall,overall,107.2
+Sabah,Kota Belud,2020/1/1,female,overall,overall,53.3
+Sabah,Kota Belud,2020/1/1,male,overall,overall,53.9
+Sabah,Kota Kinabalu,2020/1/1,both,overall,overall,500.4
+Sabah,Kota Kinabalu,2020/1/1,female,overall,overall,243.7
+Sabah,Kota Kinabalu,2020/1/1,male,overall,overall,256.7
+Sabah,Kota Marudu,2020/1/1,both,overall,overall,69.5
+Sabah,Kota Marudu,2020/1/1,female,overall,overall,33.8
+Sabah,Kota Marudu,2020/1/1,male,overall,overall,35.7
+Sabah,Kuala Penyu,2020/1/1,both,overall,overall,23.7
+Sabah,Kuala Penyu,2020/1/1,female,overall,overall,11.8
+Sabah,Kuala Penyu,2020/1/1,male,overall,overall,11.9
+Sabah,Kudat,2020/1/1,both,overall,overall,86.4
+Sabah,Kudat,2020/1/1,female,overall,overall,42.5
+Sabah,Kudat,2020/1/1,male,overall,overall,43.9
+Sabah,Kunak,2020/1/1,both,overall,overall,68.9
+Sabah,Kunak,2020/1/1,female,overall,overall,31.7
+Sabah,Kunak,2020/1/1,male,overall,overall,37.2
+Sabah,Lahad Datu,2020/1/1,both,overall,overall,229.1
+Sabah,Lahad Datu,2020/1/1,female,overall,overall,107.3
+Sabah,Lahad Datu,2020/1/1,male,overall,overall,121.8
+Sabah,Nabawan,2020/1/1,both,overall,overall,28.3
+Sabah,Nabawan,2020/1/1,female,overall,overall,13.3
+Sabah,Nabawan,2020/1/1,male,overall,overall,15.1
+Sabah,Papar,2020/1/1,both,overall,overall,150.7
+Sabah,Papar,2020/1/1,female,overall,overall,71.9
+Sabah,Papar,2020/1/1,male,overall,overall,78.8
+Sabah,Penampang,2020/1/1,both,overall,overall,162.2
+Sabah,Penampang,2020/1/1,female,overall,overall,76.4
+Sabah,Penampang,2020/1/1,male,overall,overall,85.8
+Sabah,Pitas,2020/1/1,both,overall,overall,36.7
+Sabah,Pitas,2020/1/1,female,overall,overall,17.7
+Sabah,Pitas,2020/1/1,male,overall,overall,18.9
+Sabah,Putatan,2020/1/1,both,overall,overall,68.8
+Sabah,Putatan,2020/1/1,female,overall,overall,33.2
+Sabah,Putatan,2020/1/1,male,overall,overall,35.6
+Sabah,Ranau,2020/1/1,both,overall,overall,85.1
+Sabah,Ranau,2020/1/1,female,overall,overall,41.1
+Sabah,Ranau,2020/1/1,male,overall,overall,44
+Sabah,Sandakan,2020/1/1,both,overall,overall,439.1
+Sabah,Sandakan,2020/1/1,female,overall,overall,213
+Sabah,Sandakan,2020/1/1,male,overall,overall,226
+Sabah,Semporna,2020/1/1,both,overall,overall,166.6
+Sabah,Semporna,2020/1/1,female,overall,overall,81.2
+Sabah,Semporna,2020/1/1,male,overall,overall,85.4
+Sabah,Sipitang,2020/1/1,both,overall,overall,37.8
+Sabah,Sipitang,2020/1/1,female,overall,overall,18.2
+Sabah,Sipitang,2020/1/1,male,overall,overall,19.7
+Sabah,Tambunan,2020/1/1,both,overall,overall,31.6
+Sabah,Tambunan,2020/1/1,female,overall,overall,15.5
+Sabah,Tambunan,2020/1/1,male,overall,overall,16.1
+Sabah,Tawau,2020/1/1,both,overall,overall,372.6
+Sabah,Tawau,2020/1/1,female,overall,overall,178.3
+Sabah,Tawau,2020/1/1,male,overall,overall,194.3
+Sabah,Telupid,2020/1/1,both,overall,overall,29.2
+Sabah,Telupid,2020/1/1,female,overall,overall,13.2
+Sabah,Telupid,2020/1/1,male,overall,overall,16
+Sabah,Tenom,2020/1/1,both,overall,overall,51.3
+Sabah,Tenom,2020/1/1,female,overall,overall,25
+Sabah,Tenom,2020/1/1,male,overall,overall,26.4
+Sabah,Tongod,2020/1/1,both,overall,overall,42.7
+Sabah,Tongod,2020/1/1,female,overall,overall,19.6
+Sabah,Tongod,2020/1/1,male,overall,overall,23.1
+Sabah,Tuaran,2020/1/1,both,overall,overall,135.7
+Sabah,Tuaran,2020/1/1,female,overall,overall,66.8
+Sabah,Tuaran,2020/1/1,male,overall,overall,68.9
+Sarawak,Asajaya,2020/1/1,both,overall,overall,33.6
+Sarawak,Asajaya,2020/1/1,female,overall,overall,16.5
+Sarawak,Asajaya,2020/1/1,male,overall,overall,17.1
+Sarawak,Bau,2020/1/1,both,overall,overall,52.6
+Sarawak,Bau,2020/1/1,female,overall,overall,25.3
+Sarawak,Bau,2020/1/1,male,overall,overall,27.3
+Sarawak,Belaga,2020/1/1,both,overall,overall,22.5
+Sarawak,Belaga,2020/1/1,female,overall,overall,9.5
+Sarawak,Belaga,2020/1/1,male,overall,overall,13
+Sarawak,Beluru,2020/1/1,both,overall,overall,28.7
+Sarawak,Beluru,2020/1/1,female,overall,overall,13.3
+Sarawak,Beluru,2020/1/1,male,overall,overall,15.4
+Sarawak,Betong,2020/1/1,both,overall,overall,36.3
+Sarawak,Betong,2020/1/1,female,overall,overall,17.4
+Sarawak,Betong,2020/1/1,male,overall,overall,18.9
+Sarawak,Bintulu,2020/1/1,both,overall,overall,178.6
+Sarawak,Bintulu,2020/1/1,female,overall,overall,81.9
+Sarawak,Bintulu,2020/1/1,male,overall,overall,96.7
+Sarawak,Bukit Mabong,2020/1/1,both,overall,overall,10.2
+Sarawak,Bukit Mabong,2020/1/1,female,overall,overall,4
+Sarawak,Bukit Mabong,2020/1/1,male,overall,overall,6.2
+Sarawak,Dalat,2020/1/1,both,overall,overall,21.1
+Sarawak,Dalat,2020/1/1,female,overall,overall,10.2
+Sarawak,Dalat,2020/1/1,male,overall,overall,10.9
+Sarawak,Daro,2020/1/1,both,overall,overall,19.5
+Sarawak,Daro,2020/1/1,female,overall,overall,8.9
+Sarawak,Daro,2020/1/1,male,overall,overall,10.5
+Sarawak,Julau,2020/1/1,both,overall,overall,15.3
+Sarawak,Julau,2020/1/1,female,overall,overall,7.7
+Sarawak,Julau,2020/1/1,male,overall,overall,7.6
+Sarawak,Kabong,2020/1/1,both,overall,overall,18.4
+Sarawak,Kabong,2020/1/1,female,overall,overall,9.1
+Sarawak,Kabong,2020/1/1,male,overall,overall,9.3
+Sarawak,Kanowit,2020/1/1,both,overall,overall,24.7
+Sarawak,Kanowit,2020/1/1,female,overall,overall,12.4
+Sarawak,Kanowit,2020/1/1,male,overall,overall,12.3
+Sarawak,Kapit,2020/1/1,both,overall,overall,36
+Sarawak,Kapit,2020/1/1,female,overall,overall,17.9
+Sarawak,Kapit,2020/1/1,male,overall,overall,18.1
+Sarawak,Kuching,2020/1/1,both,overall,overall,609.2
+Sarawak,Kuching,2020/1/1,female,overall,overall,301.5
+Sarawak,Kuching,2020/1/1,male,overall,overall,307.7
+Sarawak,Lawas,2020/1/1,both,overall,overall,36.6
+Sarawak,Lawas,2020/1/1,female,overall,overall,17.9
+Sarawak,Lawas,2020/1/1,male,overall,overall,18.7
+Sarawak,Limbang,2020/1/1,both,overall,overall,45.1
+Sarawak,Limbang,2020/1/1,female,overall,overall,21.9
+Sarawak,Limbang,2020/1/1,male,overall,overall,23.2
+Sarawak,Lubok Antu,2020/1/1,both,overall,overall,24.6
+Sarawak,Lubok Antu,2020/1/1,female,overall,overall,12.1
+Sarawak,Lubok Antu,2020/1/1,male,overall,overall,12.5
+Sarawak,Lundu,2020/1/1,both,overall,overall,33.5
+Sarawak,Lundu,2020/1/1,female,overall,overall,15.5
+Sarawak,Lundu,2020/1/1,male,overall,overall,18
+Sarawak,Maradong,2020/1/1,both,overall,overall,20.3
+Sarawak,Maradong,2020/1/1,female,overall,overall,10.2
+Sarawak,Maradong,2020/1/1,male,overall,overall,10.1
+Sarawak,Marudi,2020/1/1,both,overall,overall,18.8
+Sarawak,Marudi,2020/1/1,female,overall,overall,8.7
+Sarawak,Marudi,2020/1/1,male,overall,overall,10.1
+Sarawak,Matu,2020/1/1,both,overall,overall,16.3
+Sarawak,Matu,2020/1/1,female,overall,overall,7.5
+Sarawak,Matu,2020/1/1,male,overall,overall,8.8
+Sarawak,Miri,2020/1/1,both,overall,overall,248.9
+Sarawak,Miri,2020/1/1,female,overall,overall,118.3
+Sarawak,Miri,2020/1/1,male,overall,overall,130.5
+Sarawak,Mukah,2020/1/1,both,overall,overall,42.3
+Sarawak,Mukah,2020/1/1,female,overall,overall,19.9
+Sarawak,Mukah,2020/1/1,male,overall,overall,22.4
+Sarawak,Pakan,2020/1/1,both,overall,overall,15.5
+Sarawak,Pakan,2020/1/1,female,overall,overall,7.3
+Sarawak,Pakan,2020/1/1,male,overall,overall,8.2
+Sarawak,Pusa,2020/1/1,both,overall,overall,19.6
+Sarawak,Pusa,2020/1/1,female,overall,overall,9.5
+Sarawak,Pusa,2020/1/1,male,overall,overall,10.1
+Sarawak,Samarahan,2020/1/1,both,overall,overall,128.3
+Sarawak,Samarahan,2020/1/1,female,overall,overall,66.1
+Sarawak,Samarahan,2020/1/1,male,overall,overall,62.2
+Sarawak,Saratok,2020/1/1,both,overall,overall,23.1
+Sarawak,Saratok,2020/1/1,female,overall,overall,11.7
+Sarawak,Saratok,2020/1/1,male,overall,overall,11.4
+Sarawak,Sarikei,2020/1/1,both,overall,overall,44
+Sarawak,Sarikei,2020/1/1,female,overall,overall,21.9
+Sarawak,Sarikei,2020/1/1,male,overall,overall,22.1
+Sarawak,Sebauh,2020/1/1,both,overall,overall,29.6
+Sarawak,Sebauh,2020/1/1,female,overall,overall,12.8
+Sarawak,Sebauh,2020/1/1,male,overall,overall,16.8
+Sarawak,Selangau,2020/1/1,both,overall,overall,19.8
+Sarawak,Selangau,2020/1/1,female,overall,overall,9.6
+Sarawak,Selangau,2020/1/1,male,overall,overall,10.2
+Sarawak,Serian,2020/1/1,both,overall,overall,85.3
+Sarawak,Serian,2020/1/1,female,overall,overall,41.5
+Sarawak,Serian,2020/1/1,male,overall,overall,43.8
+Sarawak,Sibu,2020/1/1,both,overall,overall,248.1
+Sarawak,Sibu,2020/1/1,female,overall,overall,120.2
+Sarawak,Sibu,2020/1/1,male,overall,overall,127.8
+Sarawak,Simunjan,2020/1/1,both,overall,overall,36.2
+Sarawak,Simunjan,2020/1/1,female,overall,overall,17.1
+Sarawak,Simunjan,2020/1/1,male,overall,overall,19.1
+Sarawak,Song,2020/1/1,both,overall,overall,10
+Sarawak,Song,2020/1/1,female,overall,overall,5.1
+Sarawak,Song,2020/1/1,male,overall,overall,4.9
+Sarawak,Sri Aman,2020/1/1,both,overall,overall,61.2
+Sarawak,Sri Aman,2020/1/1,female,overall,overall,29.5
+Sarawak,Sri Aman,2020/1/1,male,overall,overall,31.7
+Sarawak,Subis,2020/1/1,both,overall,overall,57.3
+Sarawak,Subis,2020/1/1,female,overall,overall,25.4
+Sarawak,Subis,2020/1/1,male,overall,overall,31.9
+Sarawak,Tanjung Manis,2020/1/1,both,overall,overall,7.9
+Sarawak,Tanjung Manis,2020/1/1,female,overall,overall,3.7
+Sarawak,Tanjung Manis,2020/1/1,male,overall,overall,4.2
+Sarawak,Tatau,2020/1/1,both,overall,overall,31.9
+Sarawak,Tatau,2020/1/1,female,overall,overall,14.4
+Sarawak,Tatau,2020/1/1,male,overall,overall,17.5
+Sarawak,Tebedu,2020/1/1,both,overall,overall,25.2
+Sarawak,Tebedu,2020/1/1,female,overall,overall,12.4
+Sarawak,Tebedu,2020/1/1,male,overall,overall,12.8
+Sarawak,Telang Usan,2020/1/1,both,overall,overall,17.4
+Sarawak,Telang Usan,2020/1/1,female,overall,overall,8.1
+Sarawak,Telang Usan,2020/1/1,male,overall,overall,9.3
+Selangor,Gombak,2020/1/1,both,overall,overall,942.4
+Selangor,Gombak,2020/1/1,female,overall,overall,450.6
+Selangor,Gombak,2020/1/1,male,overall,overall,491.8
+Selangor,Klang,2020/1/1,both,overall,overall,1088.9
+Selangor,Klang,2020/1/1,female,overall,overall,498.2
+Selangor,Klang,2020/1/1,male,overall,overall,590.7
+Selangor,Kuala Langat,2020/1/1,both,overall,overall,307.4
+Selangor,Kuala Langat,2020/1/1,female,overall,overall,146.1
+Selangor,Kuala Langat,2020/1/1,male,overall,overall,161.4
+Selangor,Kuala Selangor,2020/1/1,both,overall,overall,281.7
+Selangor,Kuala Selangor,2020/1/1,female,overall,overall,137.6
+Selangor,Kuala Selangor,2020/1/1,male,overall,overall,144.1
+Selangor,Petaling,2020/1/1,both,overall,overall,2298.1
+Selangor,Petaling,2020/1/1,female,overall,overall,1076.6
+Selangor,Petaling,2020/1/1,male,overall,overall,1221.5
+Selangor,Sabak Bernam,2020/1/1,both,overall,overall,107.1
+Selangor,Sabak Bernam,2020/1/1,female,overall,overall,51.3
+Selangor,Sabak Bernam,2020/1/1,male,overall,overall,55.8
+Selangor,Sepang,2020/1/1,both,overall,overall,325.2
+Selangor,Sepang,2020/1/1,female,overall,overall,150.7
+Selangor,Sepang,2020/1/1,male,overall,overall,174.6
+Selangor,Ulu Langat,2020/1/1,both,overall,overall,1400.5
+Selangor,Ulu Langat,2020/1/1,female,overall,overall,658.9
+Selangor,Ulu Langat,2020/1/1,male,overall,overall,741.6
+Selangor,Ulu Selangor,2020/1/1,both,overall,overall,243
+Selangor,Ulu Selangor,2020/1/1,female,overall,overall,113.7
+Selangor,Ulu Selangor,2020/1/1,male,overall,overall,129.3
+Terengganu,Besut,2020/1/1,both,overall,overall,154.2
+Terengganu,Besut,2020/1/1,female,overall,overall,75.7
+Terengganu,Besut,2020/1/1,male,overall,overall,78.4
+Terengganu,Dungun,2020/1/1,both,overall,overall,158.1
+Terengganu,Dungun,2020/1/1,female,overall,overall,76.9
+Terengganu,Dungun,2020/1/1,male,overall,overall,81.3
+Terengganu,Hulu Terengganu,2020/1/1,both,overall,overall,69.9
+Terengganu,Hulu Terengganu,2020/1/1,female,overall,overall,32.8
+Terengganu,Hulu Terengganu,2020/1/1,male,overall,overall,37.1
+Terengganu,Kemaman,2020/1/1,both,overall,overall,215.6
+Terengganu,Kemaman,2020/1/1,female,overall,overall,102.6
+Terengganu,Kemaman,2020/1/1,male,overall,overall,113
+Terengganu,Kuala Nerus,2020/1/1,both,overall,overall,145.6
+Terengganu,Kuala Nerus,2020/1/1,female,overall,overall,73.2
+Terengganu,Kuala Nerus,2020/1/1,male,overall,overall,72.5
+Terengganu,Kuala Terengganu,2020/1/1,both,overall,overall,229.8
+Terengganu,Kuala Terengganu,2020/1/1,female,overall,overall,113.9
+Terengganu,Kuala Terengganu,2020/1/1,male,overall,overall,115.9
+Terengganu,Marang,2020/1/1,both,overall,overall,116.6
+Terengganu,Marang,2020/1/1,female,overall,overall,57.2
+Terengganu,Marang,2020/1/1,male,overall,overall,59.4
+Terengganu,Setiu,2020/1/1,both,overall,overall,59.7
+Terengganu,Setiu,2020/1/1,female,overall,overall,29.3
+Terengganu,Setiu,2020/1/1,male,overall,overall,30.3
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2020/1/1,both,overall,overall,1982.1
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2020/1/1,female,overall,overall,923.2
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2020/1/1,male,overall,overall,1058.9
+W.P. Labuan,W.P. Labuan,2020/1/1,both,overall,overall,95.1
+W.P. Labuan,W.P. Labuan,2020/1/1,female,overall,overall,46.2
+W.P. Labuan,W.P. Labuan,2020/1/1,male,overall,overall,48.9
+W.P. Putrajaya,W.P. Putrajaya,2020/1/1,both,overall,overall,109.2
+W.P. Putrajaya,W.P. Putrajaya,2020/1/1,female,overall,overall,55.6
+W.P. Putrajaya,W.P. Putrajaya,2020/1/1,male,overall,overall,53.6
+Johor,Batu Pahat,2021/1/1,both,overall,overall,497.2
+Johor,Batu Pahat,2021/1/1,female,overall,overall,235.2
+Johor,Batu Pahat,2021/1/1,male,overall,overall,262
+Johor,Johor Bahru,2021/1/1,both,overall,overall,1715.4
+Johor,Johor Bahru,2021/1/1,female,overall,overall,809.8
+Johor,Johor Bahru,2021/1/1,male,overall,overall,905.6
+Johor,Kluang,2021/1/1,both,overall,overall,325.3
+Johor,Kluang,2021/1/1,female,overall,overall,145.6
+Johor,Kluang,2021/1/1,male,overall,overall,179.7
+Johor,Kota Tinggi,2021/1/1,both,overall,overall,223.6
+Johor,Kota Tinggi,2021/1/1,female,overall,overall,105.1
+Johor,Kota Tinggi,2021/1/1,male,overall,overall,118.5
+Johor,Kulai,2021/1/1,both,overall,overall,328.2
+Johor,Kulai,2021/1/1,female,overall,overall,152
+Johor,Kulai,2021/1/1,male,overall,overall,176.2
+Johor,Mersing,2021/1/1,both,overall,overall,78.8
+Johor,Mersing,2021/1/1,female,overall,overall,36.7
+Johor,Mersing,2021/1/1,male,overall,overall,42.1
+Johor,Muar,2021/1/1,both,overall,overall,315.8
+Johor,Muar,2021/1/1,female,overall,overall,142.3
+Johor,Muar,2021/1/1,male,overall,overall,173.5
+Johor,Pontian,2021/1/1,both,overall,overall,174.2
+Johor,Pontian,2021/1/1,female,overall,overall,80.6
+Johor,Pontian,2021/1/1,male,overall,overall,93.6
+Johor,Segamat,2021/1/1,both,overall,overall,197.4
+Johor,Segamat,2021/1/1,female,overall,overall,95
+Johor,Segamat,2021/1/1,male,overall,overall,102.4
+Johor,Tangkak,2021/1/1,both,overall,overall,164
+Johor,Tangkak,2021/1/1,female,overall,overall,78.8
+Johor,Tangkak,2021/1/1,male,overall,overall,85.2
+Kedah,Baling,2021/1/1,both,overall,overall,144.2
+Kedah,Baling,2021/1/1,female,overall,overall,70.4
+Kedah,Baling,2021/1/1,male,overall,overall,73.9
+Kedah,Bandar Baharu,2021/1/1,both,overall,overall,44.4
+Kedah,Bandar Baharu,2021/1/1,female,overall,overall,21.7
+Kedah,Bandar Baharu,2021/1/1,male,overall,overall,22.7
+Kedah,Kota Setar,2021/1/1,both,overall,overall,376.3
+Kedah,Kota Setar,2021/1/1,female,overall,overall,189.1
+Kedah,Kota Setar,2021/1/1,male,overall,overall,187.2
+Kedah,Kuala Muda,2021/1/1,both,overall,overall,546.3
+Kedah,Kuala Muda,2021/1/1,female,overall,overall,266.6
+Kedah,Kuala Muda,2021/1/1,male,overall,overall,279.7
+Kedah,Kubang Pasu,2021/1/1,both,overall,overall,248.7
+Kedah,Kubang Pasu,2021/1/1,female,overall,overall,126
+Kedah,Kubang Pasu,2021/1/1,male,overall,overall,122.7
+Kedah,Kulim,2021/1/1,both,overall,overall,339
+Kedah,Kulim,2021/1/1,female,overall,overall,165.6
+Kedah,Kulim,2021/1/1,male,overall,overall,173.4
+Kedah,Langkawi,2021/1/1,both,overall,overall,95.1
+Kedah,Langkawi,2021/1/1,female,overall,overall,46
+Kedah,Langkawi,2021/1/1,male,overall,overall,49.1
+Kedah,Padang Terap,2021/1/1,both,overall,overall,66.4
+Kedah,Padang Terap,2021/1/1,female,overall,overall,31.8
+Kedah,Padang Terap,2021/1/1,male,overall,overall,34.6
+Kedah,Pendang,2021/1/1,both,overall,overall,99.3
+Kedah,Pendang,2021/1/1,female,overall,overall,46.7
+Kedah,Pendang,2021/1/1,male,overall,overall,52.6
+Kedah,Pokok Sena,2021/1/1,both,overall,overall,50
+Kedah,Pokok Sena,2021/1/1,female,overall,overall,22.7
+Kedah,Pokok Sena,2021/1/1,male,overall,overall,27.3
+Kedah,Sik,2021/1/1,both,overall,overall,68.3
+Kedah,Sik,2021/1/1,female,overall,overall,33.4
+Kedah,Sik,2021/1/1,male,overall,overall,34.8
+Kedah,Yan,2021/1/1,both,overall,overall,73.6
+Kedah,Yan,2021/1/1,female,overall,overall,35.8
+Kedah,Yan,2021/1/1,male,overall,overall,37.8
+Kelantan,Bachok,2021/1/1,both,overall,overall,158.9
+Kelantan,Bachok,2021/1/1,female,overall,overall,81.9
+Kelantan,Bachok,2021/1/1,male,overall,overall,77
+Kelantan,Gua Musang,2021/1/1,both,overall,overall,102.5
+Kelantan,Gua Musang,2021/1/1,female,overall,overall,47.7
+Kelantan,Gua Musang,2021/1/1,male,overall,overall,54.9
+Kelantan,Jeli,2021/1/1,both,overall,overall,55.6
+Kelantan,Jeli,2021/1/1,female,overall,overall,27.8
+Kelantan,Jeli,2021/1/1,male,overall,overall,27.8
+Kelantan,Kecil Lojing,2021/1/1,both,overall,overall,10.7
+Kelantan,Kecil Lojing,2021/1/1,female,overall,overall,5.1
+Kelantan,Kecil Lojing,2021/1/1,male,overall,overall,5.5
+Kelantan,Kota Bharu,2021/1/1,both,overall,overall,562.4
+Kelantan,Kota Bharu,2021/1/1,female,overall,overall,281.2
+Kelantan,Kota Bharu,2021/1/1,male,overall,overall,281.2
+Kelantan,Kuala Krai,2021/1/1,both,overall,overall,105.9
+Kelantan,Kuala Krai,2021/1/1,female,overall,overall,52.6
+Kelantan,Kuala Krai,2021/1/1,male,overall,overall,53.2
+Kelantan,Machang,2021/1/1,both,overall,overall,112.9
+Kelantan,Machang,2021/1/1,female,overall,overall,56.8
+Kelantan,Machang,2021/1/1,male,overall,overall,56.1
+Kelantan,Pasir Mas,2021/1/1,both,overall,overall,231.9
+Kelantan,Pasir Mas,2021/1/1,female,overall,overall,114.5
+Kelantan,Pasir Mas,2021/1/1,male,overall,overall,117.5
+Kelantan,Pasir Puteh,2021/1/1,both,overall,overall,137.4
+Kelantan,Pasir Puteh,2021/1/1,female,overall,overall,69.3
+Kelantan,Pasir Puteh,2021/1/1,male,overall,overall,68.1
+Kelantan,Tanah Merah,2021/1/1,both,overall,overall,152.4
+Kelantan,Tanah Merah,2021/1/1,female,overall,overall,74.1
+Kelantan,Tanah Merah,2021/1/1,male,overall,overall,78.3
+Kelantan,Tumpat,2021/1/1,both,overall,overall,181.7
+Kelantan,Tumpat,2021/1/1,female,overall,overall,91.7
+Kelantan,Tumpat,2021/1/1,male,overall,overall,90.1
+Melaka,Alor Gajah,2021/1/1,both,overall,overall,251
+Melaka,Alor Gajah,2021/1/1,female,overall,overall,121.5
+Melaka,Alor Gajah,2021/1/1,male,overall,overall,129.5
+Melaka,Jasin,2021/1/1,both,overall,overall,155.9
+Melaka,Jasin,2021/1/1,female,overall,overall,71.3
+Melaka,Jasin,2021/1/1,male,overall,overall,84.6
+Melaka,Melaka Tengah,2021/1/1,both,overall,overall,597.7
+Melaka,Melaka Tengah,2021/1/1,female,overall,overall,284.3
+Melaka,Melaka Tengah,2021/1/1,male,overall,overall,313.3
+Negeri Sembilan,Jelebu,2021/1/1,both,overall,overall,45.8
+Negeri Sembilan,Jelebu,2021/1/1,female,overall,overall,21.1
+Negeri Sembilan,Jelebu,2021/1/1,male,overall,overall,24.7
+Negeri Sembilan,Jempol,2021/1/1,both,overall,overall,127.1
+Negeri Sembilan,Jempol,2021/1/1,female,overall,overall,61.8
+Negeri Sembilan,Jempol,2021/1/1,male,overall,overall,65.3
+Negeri Sembilan,Kuala Pilah,2021/1/1,both,overall,overall,70
+Negeri Sembilan,Kuala Pilah,2021/1/1,female,overall,overall,34.4
+Negeri Sembilan,Kuala Pilah,2021/1/1,male,overall,overall,35.7
+Negeri Sembilan,Port Dickson,2021/1/1,both,overall,overall,128.9
+Negeri Sembilan,Port Dickson,2021/1/1,female,overall,overall,60.7
+Negeri Sembilan,Port Dickson,2021/1/1,male,overall,overall,68.3
+Negeri Sembilan,Rembau,2021/1/1,both,overall,overall,47.4
+Negeri Sembilan,Rembau,2021/1/1,female,overall,overall,23.5
+Negeri Sembilan,Rembau,2021/1/1,male,overall,overall,24
+Negeri Sembilan,Seremban,2021/1/1,both,overall,overall,696.1
+Negeri Sembilan,Seremban,2021/1/1,female,overall,overall,336.9
+Negeri Sembilan,Seremban,2021/1/1,male,overall,overall,359.1
+Negeri Sembilan,Tampin,2021/1/1,both,overall,overall,88.8
+Negeri Sembilan,Tampin,2021/1/1,female,overall,overall,41.6
+Negeri Sembilan,Tampin,2021/1/1,male,overall,overall,47.1
+Pahang,Bentong,2021/1/1,both,overall,overall,115.7
+Pahang,Bentong,2021/1/1,female,overall,overall,50.6
+Pahang,Bentong,2021/1/1,male,overall,overall,65.1
+Pahang,Bera,2021/1/1,both,overall,overall,98
+Pahang,Bera,2021/1/1,female,overall,overall,46
+Pahang,Bera,2021/1/1,male,overall,overall,52
+Pahang,Cameron Highlands,2021/1/1,both,overall,overall,38.5
+Pahang,Cameron Highlands,2021/1/1,female,overall,overall,16.9
+Pahang,Cameron Highlands,2021/1/1,male,overall,overall,21.7
+Pahang,Jerantut,2021/1/1,both,overall,overall,95.9
+Pahang,Jerantut,2021/1/1,female,overall,overall,45.2
+Pahang,Jerantut,2021/1/1,male,overall,overall,50.8
+Pahang,Kuantan,2021/1/1,both,overall,overall,554.6
+Pahang,Kuantan,2021/1/1,female,overall,overall,265.7
+Pahang,Kuantan,2021/1/1,male,overall,overall,288.9
+Pahang,Lipis,2021/1/1,both,overall,overall,96.6
+Pahang,Lipis,2021/1/1,female,overall,overall,45.8
+Pahang,Lipis,2021/1/1,male,overall,overall,50.8
+Pahang,Maran,2021/1/1,both,overall,overall,113.5
+Pahang,Maran,2021/1/1,female,overall,overall,54.6
+Pahang,Maran,2021/1/1,male,overall,overall,58.9
+Pahang,Pekan,2021/1/1,both,overall,overall,122.6
+Pahang,Pekan,2021/1/1,female,overall,overall,56.5
+Pahang,Pekan,2021/1/1,male,overall,overall,66.1
+Pahang,Raub,2021/1/1,both,overall,overall,96
+Pahang,Raub,2021/1/1,female,overall,overall,45.5
+Pahang,Raub,2021/1/1,male,overall,overall,50.5
+Pahang,Rompin,2021/1/1,both,overall,overall,100.6
+Pahang,Rompin,2021/1/1,female,overall,overall,45.4
+Pahang,Rompin,2021/1/1,male,overall,overall,55.2
+Pahang,Temerloh,2021/1/1,both,overall,overall,169.4
+Pahang,Temerloh,2021/1/1,female,overall,overall,82.3
+Pahang,Temerloh,2021/1/1,male,overall,overall,87.1
+Perak,Bagan Datuk,2021/1/1,both,overall,overall,83.6
+Perak,Bagan Datuk,2021/1/1,female,overall,overall,37
+Perak,Bagan Datuk,2021/1/1,male,overall,overall,46.6
+Perak,Batang Padang,2021/1/1,both,overall,overall,126.3
+Perak,Batang Padang,2021/1/1,female,overall,overall,58.1
+Perak,Batang Padang,2021/1/1,male,overall,overall,68.1
+Perak,Hilir Perak,2021/1/1,both,overall,overall,145
+Perak,Hilir Perak,2021/1/1,female,overall,overall,66.7
+Perak,Hilir Perak,2021/1/1,male,overall,overall,78.4
+Perak,Hulu Perak,2021/1/1,both,overall,overall,95.3
+Perak,Hulu Perak,2021/1/1,female,overall,overall,45.9
+Perak,Hulu Perak,2021/1/1,male,overall,overall,49.4
+Perak,Kampar,2021/1/1,both,overall,overall,98.3
+Perak,Kampar,2021/1/1,female,overall,overall,48.1
+Perak,Kampar,2021/1/1,male,overall,overall,50.2
+Perak,Kerian,2021/1/1,both,overall,overall,167.8
+Perak,Kerian,2021/1/1,female,overall,overall,81.4
+Perak,Kerian,2021/1/1,male,overall,overall,86.5
+Perak,Kinta,2021/1/1,both,overall,overall,893.6
+Perak,Kinta,2021/1/1,female,overall,overall,432.3
+Perak,Kinta,2021/1/1,male,overall,overall,461.3
+Perak,Kuala Kangsar,2021/1/1,both,overall,overall,176.3
+Perak,Kuala Kangsar,2021/1/1,female,overall,overall,87
+Perak,Kuala Kangsar,2021/1/1,male,overall,overall,89.3
+Perak,Larut Dan Matang,2021/1/1,both,overall,overall,272.2
+Perak,Larut Dan Matang,2021/1/1,female,overall,overall,131.4
+Perak,Larut Dan Matang,2021/1/1,male,overall,overall,140.8
+Perak,Manjung,2021/1/1,both,overall,overall,250.1
+Perak,Manjung,2021/1/1,female,overall,overall,115.3
+Perak,Manjung,2021/1/1,male,overall,overall,134.9
+Perak,Muallim,2021/1/1,both,overall,overall,77.9
+Perak,Muallim,2021/1/1,female,overall,overall,40.5
+Perak,Muallim,2021/1/1,male,overall,overall,37.4
+Perak,Perak Tengah,2021/1/1,both,overall,overall,95
+Perak,Perak Tengah,2021/1/1,female,overall,overall,46.1
+Perak,Perak Tengah,2021/1/1,male,overall,overall,48.9
+Perak,Selama,2021/1/1,both,overall,overall,34.4
+Perak,Selama,2021/1/1,female,overall,overall,17
+Perak,Selama,2021/1/1,male,overall,overall,17.4
+Perlis,Perlis,2021/1/1,both,overall,overall,287.6
+Perlis,Perlis,2021/1/1,female,overall,overall,144
+Perlis,Perlis,2021/1/1,male,overall,overall,143.6
+Pulau Pinang,Barat Daya,2021/1/1,both,overall,overall,238.5
+Pulau Pinang,Barat Daya,2021/1/1,female,overall,overall,117.8
+Pulau Pinang,Barat Daya,2021/1/1,male,overall,overall,120.8
+Pulau Pinang,Seberang Perai Selatan,2021/1/1,both,overall,overall,186.5
+Pulau Pinang,Seberang Perai Selatan,2021/1/1,female,overall,overall,92.9
+Pulau Pinang,Seberang Perai Selatan,2021/1/1,male,overall,overall,93.6
+Pulau Pinang,Seberang Perai Tengah,2021/1/1,both,overall,overall,421.6
+Pulau Pinang,Seberang Perai Tengah,2021/1/1,female,overall,overall,198.2
+Pulau Pinang,Seberang Perai Tengah,2021/1/1,male,overall,overall,223.3
+Pulau Pinang,Seberang Perai Utara,2021/1/1,both,overall,overall,339.8
+Pulau Pinang,Seberang Perai Utara,2021/1/1,female,overall,overall,167.2
+Pulau Pinang,Seberang Perai Utara,2021/1/1,male,overall,overall,172.6
+Pulau Pinang,Timur Laut,2021/1/1,both,overall,overall,553.6
+Pulau Pinang,Timur Laut,2021/1/1,female,overall,overall,272.6
+Pulau Pinang,Timur Laut,2021/1/1,male,overall,overall,281
+Sabah,Beaufort,2021/1/1,both,overall,overall,76.5
+Sabah,Beaufort,2021/1/1,female,overall,overall,36.8
+Sabah,Beaufort,2021/1/1,male,overall,overall,39.6
+Sabah,Beluran,2021/1/1,both,overall,overall,80.5
+Sabah,Beluran,2021/1/1,female,overall,overall,36.9
+Sabah,Beluran,2021/1/1,male,overall,overall,43.6
+Sabah,Kalabakan,2021/1/1,both,overall,overall,50.2
+Sabah,Kalabakan,2021/1/1,female,overall,overall,22.6
+Sabah,Kalabakan,2021/1/1,male,overall,overall,27.7
+Sabah,Keningau,2021/1/1,both,overall,overall,151.2
+Sabah,Keningau,2021/1/1,female,overall,overall,73.1
+Sabah,Keningau,2021/1/1,male,overall,overall,78.1
+Sabah,Kinabatangan,2021/1/1,both,overall,overall,135.4
+Sabah,Kinabatangan,2021/1/1,female,overall,overall,60.1
+Sabah,Kinabatangan,2021/1/1,male,overall,overall,75.3
+Sabah,Kota Belud,2021/1/1,both,overall,overall,108.5
+Sabah,Kota Belud,2021/1/1,female,overall,overall,53.9
+Sabah,Kota Belud,2021/1/1,male,overall,overall,54.6
+Sabah,Kota Kinabalu,2021/1/1,both,overall,overall,496.4
+Sabah,Kota Kinabalu,2021/1/1,female,overall,overall,241.8
+Sabah,Kota Kinabalu,2021/1/1,male,overall,overall,254.6
+Sabah,Kota Marudu,2021/1/1,both,overall,overall,70.3
+Sabah,Kota Marudu,2021/1/1,female,overall,overall,34.2
+Sabah,Kota Marudu,2021/1/1,male,overall,overall,36.1
+Sabah,Kuala Penyu,2021/1/1,both,overall,overall,23.6
+Sabah,Kuala Penyu,2021/1/1,female,overall,overall,11.7
+Sabah,Kuala Penyu,2021/1/1,male,overall,overall,12
+Sabah,Kudat,2021/1/1,both,overall,overall,85.9
+Sabah,Kudat,2021/1/1,female,overall,overall,42.3
+Sabah,Kudat,2021/1/1,male,overall,overall,43.7
+Sabah,Kunak,2021/1/1,both,overall,overall,67
+Sabah,Kunak,2021/1/1,female,overall,overall,30.9
+Sabah,Kunak,2021/1/1,male,overall,overall,36.1
+Sabah,Lahad Datu,2021/1/1,both,overall,overall,233.2
+Sabah,Lahad Datu,2021/1/1,female,overall,overall,109.2
+Sabah,Lahad Datu,2021/1/1,male,overall,overall,124
+Sabah,Nabawan,2021/1/1,both,overall,overall,28.7
+Sabah,Nabawan,2021/1/1,female,overall,overall,13.5
+Sabah,Nabawan,2021/1/1,male,overall,overall,15.2
+Sabah,Papar,2021/1/1,both,overall,overall,151.3
+Sabah,Papar,2021/1/1,female,overall,overall,70.7
+Sabah,Papar,2021/1/1,male,overall,overall,80.6
+Sabah,Penampang,2021/1/1,both,overall,overall,165.5
+Sabah,Penampang,2021/1/1,female,overall,overall,77.6
+Sabah,Penampang,2021/1/1,male,overall,overall,87.9
+Sabah,Pitas,2021/1/1,both,overall,overall,37.1
+Sabah,Pitas,2021/1/1,female,overall,overall,18
+Sabah,Pitas,2021/1/1,male,overall,overall,19.2
+Sabah,Putatan,2021/1/1,both,overall,overall,69.2
+Sabah,Putatan,2021/1/1,female,overall,overall,32.9
+Sabah,Putatan,2021/1/1,male,overall,overall,36.3
+Sabah,Ranau,2021/1/1,both,overall,overall,86.4
+Sabah,Ranau,2021/1/1,female,overall,overall,41.7
+Sabah,Ranau,2021/1/1,male,overall,overall,44.7
+Sabah,Sandakan,2021/1/1,both,overall,overall,432.1
+Sabah,Sandakan,2021/1/1,female,overall,overall,209.8
+Sabah,Sandakan,2021/1/1,male,overall,overall,222.3
+Sabah,Semporna,2021/1/1,both,overall,overall,160.4
+Sabah,Semporna,2021/1/1,female,overall,overall,78.2
+Sabah,Semporna,2021/1/1,male,overall,overall,82.2
+Sabah,Sipitang,2021/1/1,both,overall,overall,37.5
+Sabah,Sipitang,2021/1/1,female,overall,overall,18
+Sabah,Sipitang,2021/1/1,male,overall,overall,19.5
+Sabah,Tambunan,2021/1/1,both,overall,overall,31.7
+Sabah,Tambunan,2021/1/1,female,overall,overall,15.6
+Sabah,Tambunan,2021/1/1,male,overall,overall,16.2
+Sabah,Tawau,2021/1/1,both,overall,overall,374
+Sabah,Tawau,2021/1/1,female,overall,overall,178.9
+Sabah,Tawau,2021/1/1,male,overall,overall,195
+Sabah,Telupid,2021/1/1,both,overall,overall,29.6
+Sabah,Telupid,2021/1/1,female,overall,overall,13.4
+Sabah,Telupid,2021/1/1,male,overall,overall,16.2
+Sabah,Tenom,2021/1/1,both,overall,overall,51.6
+Sabah,Tenom,2021/1/1,female,overall,overall,25.1
+Sabah,Tenom,2021/1/1,male,overall,overall,26.5
+Sabah,Tongod,2021/1/1,both,overall,overall,42.2
+Sabah,Tongod,2021/1/1,female,overall,overall,19.4
+Sabah,Tongod,2021/1/1,male,overall,overall,22.8
+Sabah,Tuaran,2021/1/1,both,overall,overall,136.5
+Sabah,Tuaran,2021/1/1,female,overall,overall,67.1
+Sabah,Tuaran,2021/1/1,male,overall,overall,69.4
+Sarawak,Asajaya,2021/1/1,both,overall,overall,33.8
+Sarawak,Asajaya,2021/1/1,female,overall,overall,16.6
+Sarawak,Asajaya,2021/1/1,male,overall,overall,17.3
+Sarawak,Bau,2021/1/1,both,overall,overall,52.9
+Sarawak,Bau,2021/1/1,female,overall,overall,25.5
+Sarawak,Bau,2021/1/1,male,overall,overall,27.4
+Sarawak,Belaga,2021/1/1,both,overall,overall,22.8
+Sarawak,Belaga,2021/1/1,female,overall,overall,9.7
+Sarawak,Belaga,2021/1/1,male,overall,overall,13.1
+Sarawak,Beluru,2021/1/1,both,overall,overall,29.3
+Sarawak,Beluru,2021/1/1,female,overall,overall,13.5
+Sarawak,Beluru,2021/1/1,male,overall,overall,15.8
+Sarawak,Betong,2021/1/1,both,overall,overall,36.3
+Sarawak,Betong,2021/1/1,female,overall,overall,17.5
+Sarawak,Betong,2021/1/1,male,overall,overall,18.8
+Sarawak,Bintulu,2021/1/1,both,overall,overall,177
+Sarawak,Bintulu,2021/1/1,female,overall,overall,81.8
+Sarawak,Bintulu,2021/1/1,male,overall,overall,95.2
+Sarawak,Bukit Mabong,2021/1/1,both,overall,overall,10.3
+Sarawak,Bukit Mabong,2021/1/1,female,overall,overall,4.1
+Sarawak,Bukit Mabong,2021/1/1,male,overall,overall,6.3
+Sarawak,Dalat,2021/1/1,both,overall,overall,21.1
+Sarawak,Dalat,2021/1/1,female,overall,overall,10.2
+Sarawak,Dalat,2021/1/1,male,overall,overall,10.9
+Sarawak,Daro,2021/1/1,both,overall,overall,19.5
+Sarawak,Daro,2021/1/1,female,overall,overall,9
+Sarawak,Daro,2021/1/1,male,overall,overall,10.5
+Sarawak,Julau,2021/1/1,both,overall,overall,15.3
+Sarawak,Julau,2021/1/1,female,overall,overall,7.7
+Sarawak,Julau,2021/1/1,male,overall,overall,7.6
+Sarawak,Kabong,2021/1/1,both,overall,overall,18.5
+Sarawak,Kabong,2021/1/1,female,overall,overall,9.2
+Sarawak,Kabong,2021/1/1,male,overall,overall,9.3
+Sarawak,Kanowit,2021/1/1,both,overall,overall,24.7
+Sarawak,Kanowit,2021/1/1,female,overall,overall,12.3
+Sarawak,Kanowit,2021/1/1,male,overall,overall,12.3
+Sarawak,Kapit,2021/1/1,both,overall,overall,36
+Sarawak,Kapit,2021/1/1,female,overall,overall,17.9
+Sarawak,Kapit,2021/1/1,male,overall,overall,18.1
+Sarawak,Kuching,2021/1/1,both,overall,overall,612.5
+Sarawak,Kuching,2021/1/1,female,overall,overall,303.3
+Sarawak,Kuching,2021/1/1,male,overall,overall,309.1
+Sarawak,Lawas,2021/1/1,both,overall,overall,36.9
+Sarawak,Lawas,2021/1/1,female,overall,overall,18
+Sarawak,Lawas,2021/1/1,male,overall,overall,18.8
+Sarawak,Limbang,2021/1/1,both,overall,overall,45.3
+Sarawak,Limbang,2021/1/1,female,overall,overall,22
+Sarawak,Limbang,2021/1/1,male,overall,overall,23.3
+Sarawak,Lubok Antu,2021/1/1,both,overall,overall,24.7
+Sarawak,Lubok Antu,2021/1/1,female,overall,overall,12.2
+Sarawak,Lubok Antu,2021/1/1,male,overall,overall,12.5
+Sarawak,Lundu,2021/1/1,both,overall,overall,33.7
+Sarawak,Lundu,2021/1/1,female,overall,overall,15.7
+Sarawak,Lundu,2021/1/1,male,overall,overall,18
+Sarawak,Maradong,2021/1/1,both,overall,overall,20.4
+Sarawak,Maradong,2021/1/1,female,overall,overall,10.2
+Sarawak,Maradong,2021/1/1,male,overall,overall,10.1
+Sarawak,Marudi,2021/1/1,both,overall,overall,19.2
+Sarawak,Marudi,2021/1/1,female,overall,overall,8.9
+Sarawak,Marudi,2021/1/1,male,overall,overall,10.3
+Sarawak,Matu,2021/1/1,both,overall,overall,16.6
+Sarawak,Matu,2021/1/1,female,overall,overall,7.6
+Sarawak,Matu,2021/1/1,male,overall,overall,9
+Sarawak,Miri,2021/1/1,both,overall,overall,250.4
+Sarawak,Miri,2021/1/1,female,overall,overall,119.2
+Sarawak,Miri,2021/1/1,male,overall,overall,131.1
+Sarawak,Mukah,2021/1/1,both,overall,overall,42.8
+Sarawak,Mukah,2021/1/1,female,overall,overall,20.1
+Sarawak,Mukah,2021/1/1,male,overall,overall,22.7
+Sarawak,Pakan,2021/1/1,both,overall,overall,15.5
+Sarawak,Pakan,2021/1/1,female,overall,overall,7.3
+Sarawak,Pakan,2021/1/1,male,overall,overall,8.2
+Sarawak,Pusa,2021/1/1,both,overall,overall,19.6
+Sarawak,Pusa,2021/1/1,female,overall,overall,9.5
+Sarawak,Pusa,2021/1/1,male,overall,overall,10.1
+Sarawak,Samarahan,2021/1/1,both,overall,overall,132.7
+Sarawak,Samarahan,2021/1/1,female,overall,overall,68.3
+Sarawak,Samarahan,2021/1/1,male,overall,overall,64.3
+Sarawak,Saratok,2021/1/1,both,overall,overall,23.1
+Sarawak,Saratok,2021/1/1,female,overall,overall,11.7
+Sarawak,Saratok,2021/1/1,male,overall,overall,11.4
+Sarawak,Sarikei,2021/1/1,both,overall,overall,44.2
+Sarawak,Sarikei,2021/1/1,female,overall,overall,22
+Sarawak,Sarikei,2021/1/1,male,overall,overall,22.2
+Sarawak,Sebauh,2021/1/1,both,overall,overall,28.2
+Sarawak,Sebauh,2021/1/1,female,overall,overall,12.4
+Sarawak,Sebauh,2021/1/1,male,overall,overall,15.8
+Sarawak,Selangau,2021/1/1,both,overall,overall,19.8
+Sarawak,Selangau,2021/1/1,female,overall,overall,9.6
+Sarawak,Selangau,2021/1/1,male,overall,overall,10.1
+Sarawak,Serian,2021/1/1,both,overall,overall,85.5
+Sarawak,Serian,2021/1/1,female,overall,overall,41.7
+Sarawak,Serian,2021/1/1,male,overall,overall,43.8
+Sarawak,Sibu,2021/1/1,both,overall,overall,247.6
+Sarawak,Sibu,2021/1/1,female,overall,overall,120.6
+Sarawak,Sibu,2021/1/1,male,overall,overall,127
+Sarawak,Simunjan,2021/1/1,both,overall,overall,36.4
+Sarawak,Simunjan,2021/1/1,female,overall,overall,17.2
+Sarawak,Simunjan,2021/1/1,male,overall,overall,19.1
+Sarawak,Song,2021/1/1,both,overall,overall,10
+Sarawak,Song,2021/1/1,female,overall,overall,5.1
+Sarawak,Song,2021/1/1,male,overall,overall,4.9
+Sarawak,Sri Aman,2021/1/1,both,overall,overall,61.3
+Sarawak,Sri Aman,2021/1/1,female,overall,overall,29.5
+Sarawak,Sri Aman,2021/1/1,male,overall,overall,31.8
+Sarawak,Subis,2021/1/1,both,overall,overall,58.7
+Sarawak,Subis,2021/1/1,female,overall,overall,25.8
+Sarawak,Subis,2021/1/1,male,overall,overall,32.8
+Sarawak,Tanjung Manis,2021/1/1,both,overall,overall,8.1
+Sarawak,Tanjung Manis,2021/1/1,female,overall,overall,3.8
+Sarawak,Tanjung Manis,2021/1/1,male,overall,overall,4.3
+Sarawak,Tatau,2021/1/1,both,overall,overall,32.4
+Sarawak,Tatau,2021/1/1,female,overall,overall,14.5
+Sarawak,Tatau,2021/1/1,male,overall,overall,17.8
+Sarawak,Tebedu,2021/1/1,both,overall,overall,25.2
+Sarawak,Tebedu,2021/1/1,female,overall,overall,12.4
+Sarawak,Tebedu,2021/1/1,male,overall,overall,12.8
+Sarawak,Telang Usan,2021/1/1,both,overall,overall,17.4
+Sarawak,Telang Usan,2021/1/1,female,overall,overall,8.1
+Sarawak,Telang Usan,2021/1/1,male,overall,overall,9.3
+Selangor,Gombak,2021/1/1,both,overall,overall,948
+Selangor,Gombak,2021/1/1,female,overall,overall,452.4
+Selangor,Gombak,2021/1/1,male,overall,overall,495.6
+Selangor,Klang,2021/1/1,both,overall,overall,1078.7
+Selangor,Klang,2021/1/1,female,overall,overall,505.3
+Selangor,Klang,2021/1/1,male,overall,overall,573.4
+Selangor,Kuala Langat,2021/1/1,both,overall,overall,312.2
+Selangor,Kuala Langat,2021/1/1,female,overall,overall,149.7
+Selangor,Kuala Langat,2021/1/1,male,overall,overall,162.6
+Selangor,Kuala Selangor,2021/1/1,both,overall,overall,285.1
+Selangor,Kuala Selangor,2021/1/1,female,overall,overall,140
+Selangor,Kuala Selangor,2021/1/1,male,overall,overall,145.2
+Selangor,Petaling,2021/1/1,both,overall,overall,2315.7
+Selangor,Petaling,2021/1/1,female,overall,overall,1080
+Selangor,Petaling,2021/1/1,male,overall,overall,1235.7
+Selangor,Sabak Bernam,2021/1/1,both,overall,overall,107.5
+Selangor,Sabak Bernam,2021/1/1,female,overall,overall,51.7
+Selangor,Sabak Bernam,2021/1/1,male,overall,overall,55.8
+Selangor,Sepang,2021/1/1,both,overall,overall,330.7
+Selangor,Sepang,2021/1/1,female,overall,overall,153.3
+Selangor,Sepang,2021/1/1,male,overall,overall,177.4
+Selangor,Ulu Langat,2021/1/1,both,overall,overall,1393.3
+Selangor,Ulu Langat,2021/1/1,female,overall,overall,657.6
+Selangor,Ulu Langat,2021/1/1,male,overall,overall,735.7
+Selangor,Ulu Selangor,2021/1/1,both,overall,overall,243.4
+Selangor,Ulu Selangor,2021/1/1,female,overall,overall,114.7
+Selangor,Ulu Selangor,2021/1/1,male,overall,overall,128.7
+Terengganu,Besut,2021/1/1,both,overall,overall,156.8
+Terengganu,Besut,2021/1/1,female,overall,overall,77
+Terengganu,Besut,2021/1/1,male,overall,overall,79.8
+Terengganu,Dungun,2021/1/1,both,overall,overall,160.7
+Terengganu,Dungun,2021/1/1,female,overall,overall,78.1
+Terengganu,Dungun,2021/1/1,male,overall,overall,82.6
+Terengganu,Hulu Terengganu,2021/1/1,both,overall,overall,71.6
+Terengganu,Hulu Terengganu,2021/1/1,female,overall,overall,33.4
+Terengganu,Hulu Terengganu,2021/1/1,male,overall,overall,38.2
+Terengganu,Kemaman,2021/1/1,both,overall,overall,218.7
+Terengganu,Kemaman,2021/1/1,female,overall,overall,104
+Terengganu,Kemaman,2021/1/1,male,overall,overall,114.7
+Terengganu,Kuala Nerus,2021/1/1,both,overall,overall,149.3
+Terengganu,Kuala Nerus,2021/1/1,female,overall,overall,74.9
+Terengganu,Kuala Nerus,2021/1/1,male,overall,overall,74.4
+Terengganu,Kuala Terengganu,2021/1/1,both,overall,overall,233.6
+Terengganu,Kuala Terengganu,2021/1/1,female,overall,overall,115.7
+Terengganu,Kuala Terengganu,2021/1/1,male,overall,overall,117.8
+Terengganu,Marang,2021/1/1,both,overall,overall,119.5
+Terengganu,Marang,2021/1/1,female,overall,overall,58.6
+Terengganu,Marang,2021/1/1,male,overall,overall,60.9
+Terengganu,Setiu,2021/1/1,both,overall,overall,60.5
+Terengganu,Setiu,2021/1/1,female,overall,overall,29.7
+Terengganu,Setiu,2021/1/1,male,overall,overall,30.8
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2021/1/1,both,overall,overall,1964
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2021/1/1,female,overall,overall,918.8
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2021/1/1,male,overall,overall,1045.2
+W.P. Labuan,W.P. Labuan,2021/1/1,both,overall,overall,96
+W.P. Labuan,W.P. Labuan,2021/1/1,female,overall,overall,46.6
+W.P. Labuan,W.P. Labuan,2021/1/1,male,overall,overall,49.4
+W.P. Putrajaya,W.P. Putrajaya,2021/1/1,both,overall,overall,115.2
+W.P. Putrajaya,W.P. Putrajaya,2021/1/1,female,overall,overall,58.5
+W.P. Putrajaya,W.P. Putrajaya,2021/1/1,male,overall,overall,56.7
+Johor,Batu Pahat,2022/1/1,both,overall,overall,497.5
+Johor,Batu Pahat,2022/1/1,female,overall,overall,236
+Johor,Batu Pahat,2022/1/1,male,overall,overall,261.5
+Johor,Johor Bahru,2022/1/1,both,overall,overall,1723.7
+Johor,Johor Bahru,2022/1/1,female,overall,overall,814.1
+Johor,Johor Bahru,2022/1/1,male,overall,overall,909.6
+Johor,Kluang,2022/1/1,both,overall,overall,323.5
+Johor,Kluang,2022/1/1,female,overall,overall,146
+Johor,Kluang,2022/1/1,male,overall,overall,177.5
+Johor,Kota Tinggi,2022/1/1,both,overall,overall,224.9
+Johor,Kota Tinggi,2022/1/1,female,overall,overall,106
+Johor,Kota Tinggi,2022/1/1,male,overall,overall,118.9
+Johor,Kulai,2022/1/1,both,overall,overall,329.2
+Johor,Kulai,2022/1/1,female,overall,overall,152.7
+Johor,Kulai,2022/1/1,male,overall,overall,176.5
+Johor,Mersing,2022/1/1,both,overall,overall,79.1
+Johor,Mersing,2022/1/1,female,overall,overall,36.9
+Johor,Mersing,2022/1/1,male,overall,overall,42.1
+Johor,Muar,2022/1/1,both,overall,overall,314
+Johor,Muar,2022/1/1,female,overall,overall,142.8
+Johor,Muar,2022/1/1,male,overall,overall,171.2
+Johor,Pontian,2022/1/1,both,overall,overall,173.6
+Johor,Pontian,2022/1/1,female,overall,overall,80.9
+Johor,Pontian,2022/1/1,male,overall,overall,92.7
+Johor,Segamat,2022/1/1,both,overall,overall,198.2
+Johor,Segamat,2022/1/1,female,overall,overall,95.4
+Johor,Segamat,2022/1/1,male,overall,overall,102.8
+Johor,Tangkak,2022/1/1,both,overall,overall,164.6
+Johor,Tangkak,2022/1/1,female,overall,overall,79.1
+Johor,Tangkak,2022/1/1,male,overall,overall,85.5
+Kedah,Baling,2022/1/1,both,overall,overall,144.9
+Kedah,Baling,2022/1/1,female,overall,overall,70.8
+Kedah,Baling,2022/1/1,male,overall,overall,74.1
+Kedah,Bandar Baharu,2022/1/1,both,overall,overall,44.7
+Kedah,Bandar Baharu,2022/1/1,female,overall,overall,21.8
+Kedah,Bandar Baharu,2022/1/1,male,overall,overall,22.8
+Kedah,Kota Setar,2022/1/1,both,overall,overall,376.8
+Kedah,Kota Setar,2022/1/1,female,overall,overall,189.5
+Kedah,Kota Setar,2022/1/1,male,overall,overall,187.4
+Kedah,Kuala Muda,2022/1/1,both,overall,overall,550.5
+Kedah,Kuala Muda,2022/1/1,female,overall,overall,268.6
+Kedah,Kuala Muda,2022/1/1,male,overall,overall,281.9
+Kedah,Kubang Pasu,2022/1/1,both,overall,overall,249.7
+Kedah,Kubang Pasu,2022/1/1,female,overall,overall,126.6
+Kedah,Kubang Pasu,2022/1/1,male,overall,overall,123.1
+Kedah,Kulim,2022/1/1,both,overall,overall,341.3
+Kedah,Kulim,2022/1/1,female,overall,overall,166.7
+Kedah,Kulim,2022/1/1,male,overall,overall,174.6
+Kedah,Langkawi,2022/1/1,both,overall,overall,96.4
+Kedah,Langkawi,2022/1/1,female,overall,overall,46.6
+Kedah,Langkawi,2022/1/1,male,overall,overall,49.7
+Kedah,Padang Terap,2022/1/1,both,overall,overall,66.5
+Kedah,Padang Terap,2022/1/1,female,overall,overall,31.9
+Kedah,Padang Terap,2022/1/1,male,overall,overall,34.6
+Kedah,Pendang,2022/1/1,both,overall,overall,99.8
+Kedah,Pendang,2022/1/1,female,overall,overall,47
+Kedah,Pendang,2022/1/1,male,overall,overall,52.8
+Kedah,Pokok Sena,2022/1/1,both,overall,overall,50
+Kedah,Pokok Sena,2022/1/1,female,overall,overall,22.8
+Kedah,Pokok Sena,2022/1/1,male,overall,overall,27.3
+Kedah,Sik,2022/1/1,both,overall,overall,68.6
+Kedah,Sik,2022/1/1,female,overall,overall,33.7
+Kedah,Sik,2022/1/1,male,overall,overall,35
+Kedah,Yan,2022/1/1,both,overall,overall,73.8
+Kedah,Yan,2022/1/1,female,overall,overall,36
+Kedah,Yan,2022/1/1,male,overall,overall,37.9
+Kelantan,Bachok,2022/1/1,both,overall,overall,160.7
+Kelantan,Bachok,2022/1/1,female,overall,overall,82.7
+Kelantan,Bachok,2022/1/1,male,overall,overall,78
+Kelantan,Gua Musang,2022/1/1,both,overall,overall,104
+Kelantan,Gua Musang,2022/1/1,female,overall,overall,48.3
+Kelantan,Gua Musang,2022/1/1,male,overall,overall,55.7
+Kelantan,Jeli,2022/1/1,both,overall,overall,56.1
+Kelantan,Jeli,2022/1/1,female,overall,overall,28
+Kelantan,Jeli,2022/1/1,male,overall,overall,28
+Kelantan,Kecil Lojing,2022/1/1,both,overall,overall,10.8
+Kelantan,Kecil Lojing,2022/1/1,female,overall,overall,5.2
+Kelantan,Kecil Lojing,2022/1/1,male,overall,overall,5.6
+Kelantan,Kota Bharu,2022/1/1,both,overall,overall,567.5
+Kelantan,Kota Bharu,2022/1/1,female,overall,overall,284
+Kelantan,Kota Bharu,2022/1/1,male,overall,overall,283.5
+Kelantan,Kuala Krai,2022/1/1,both,overall,overall,107.1
+Kelantan,Kuala Krai,2022/1/1,female,overall,overall,53.2
+Kelantan,Kuala Krai,2022/1/1,male,overall,overall,53.8
+Kelantan,Machang,2022/1/1,both,overall,overall,113.9
+Kelantan,Machang,2022/1/1,female,overall,overall,57.3
+Kelantan,Machang,2022/1/1,male,overall,overall,56.6
+Kelantan,Pasir Mas,2022/1/1,both,overall,overall,234.2
+Kelantan,Pasir Mas,2022/1/1,female,overall,overall,115.5
+Kelantan,Pasir Mas,2022/1/1,male,overall,overall,118.6
+Kelantan,Pasir Puteh,2022/1/1,both,overall,overall,138.9
+Kelantan,Pasir Puteh,2022/1/1,female,overall,overall,70.1
+Kelantan,Pasir Puteh,2022/1/1,male,overall,overall,68.9
+Kelantan,Tanah Merah,2022/1/1,both,overall,overall,153.7
+Kelantan,Tanah Merah,2022/1/1,female,overall,overall,74.8
+Kelantan,Tanah Merah,2022/1/1,male,overall,overall,78.8
+Kelantan,Tumpat,2022/1/1,both,overall,overall,183.7
+Kelantan,Tumpat,2022/1/1,female,overall,overall,92.7
+Kelantan,Tumpat,2022/1/1,male,overall,overall,91
+Melaka,Alor Gajah,2022/1/1,both,overall,overall,251.8
+Melaka,Alor Gajah,2022/1/1,female,overall,overall,122.1
+Melaka,Alor Gajah,2022/1/1,male,overall,overall,129.8
+Melaka,Jasin,2022/1/1,both,overall,overall,153.9
+Melaka,Jasin,2022/1/1,female,overall,overall,71.5
+Melaka,Jasin,2022/1/1,male,overall,overall,82.4
+Melaka,Melaka Tengah,2022/1/1,both,overall,overall,602.8
+Melaka,Melaka Tengah,2022/1/1,female,overall,overall,286.3
+Melaka,Melaka Tengah,2022/1/1,male,overall,overall,316.5
+Negeri Sembilan,Jelebu,2022/1/1,both,overall,overall,46.3
+Negeri Sembilan,Jelebu,2022/1/1,female,overall,overall,21.2
+Negeri Sembilan,Jelebu,2022/1/1,male,overall,overall,25
+Negeri Sembilan,Jempol,2022/1/1,both,overall,overall,127.6
+Negeri Sembilan,Jempol,2022/1/1,female,overall,overall,62.1
+Negeri Sembilan,Jempol,2022/1/1,male,overall,overall,65.5
+Negeri Sembilan,Kuala Pilah,2022/1/1,both,overall,overall,70.4
+Negeri Sembilan,Kuala Pilah,2022/1/1,female,overall,overall,34.4
+Negeri Sembilan,Kuala Pilah,2022/1/1,male,overall,overall,36
+Negeri Sembilan,Port Dickson,2022/1/1,both,overall,overall,130.1
+Negeri Sembilan,Port Dickson,2022/1/1,female,overall,overall,61.3
+Negeri Sembilan,Port Dickson,2022/1/1,male,overall,overall,68.9
+Negeri Sembilan,Rembau,2022/1/1,both,overall,overall,47.8
+Negeri Sembilan,Rembau,2022/1/1,female,overall,overall,23.6
+Negeri Sembilan,Rembau,2022/1/1,male,overall,overall,24.2
+Negeri Sembilan,Seremban,2022/1/1,both,overall,overall,696.9
+Negeri Sembilan,Seremban,2022/1/1,female,overall,overall,338.3
+Negeri Sembilan,Seremban,2022/1/1,male,overall,overall,358.6
+Negeri Sembilan,Tampin,2022/1/1,both,overall,overall,88.8
+Negeri Sembilan,Tampin,2022/1/1,female,overall,overall,41.8
+Negeri Sembilan,Tampin,2022/1/1,male,overall,overall,47
+Pahang,Bentong,2022/1/1,both,overall,overall,116.7
+Pahang,Bentong,2022/1/1,female,overall,overall,50.9
+Pahang,Bentong,2022/1/1,male,overall,overall,65.8
+Pahang,Bera,2022/1/1,both,overall,overall,98.9
+Pahang,Bera,2022/1/1,female,overall,overall,46.3
+Pahang,Bera,2022/1/1,male,overall,overall,52.6
+Pahang,Cameron Highlands,2022/1/1,both,overall,overall,39.2
+Pahang,Cameron Highlands,2022/1/1,female,overall,overall,17
+Pahang,Cameron Highlands,2022/1/1,male,overall,overall,22.1
+Pahang,Jerantut,2022/1/1,both,overall,overall,97
+Pahang,Jerantut,2022/1/1,female,overall,overall,45.6
+Pahang,Jerantut,2022/1/1,male,overall,overall,51.4
+Pahang,Kuantan,2022/1/1,both,overall,overall,557.9
+Pahang,Kuantan,2022/1/1,female,overall,overall,268.2
+Pahang,Kuantan,2022/1/1,male,overall,overall,289.7
+Pahang,Lipis,2022/1/1,both,overall,overall,97.9
+Pahang,Lipis,2022/1/1,female,overall,overall,46.2
+Pahang,Lipis,2022/1/1,male,overall,overall,51.7
+Pahang,Maran,2022/1/1,both,overall,overall,114.7
+Pahang,Maran,2022/1/1,female,overall,overall,55
+Pahang,Maran,2022/1/1,male,overall,overall,59.7
+Pahang,Pekan,2022/1/1,both,overall,overall,123.5
+Pahang,Pekan,2022/1/1,female,overall,overall,57.2
+Pahang,Pekan,2022/1/1,male,overall,overall,66.3
+Pahang,Raub,2022/1/1,both,overall,overall,96.8
+Pahang,Raub,2022/1/1,female,overall,overall,45.8
+Pahang,Raub,2022/1/1,male,overall,overall,51
+Pahang,Rompin,2022/1/1,both,overall,overall,100.4
+Pahang,Rompin,2022/1/1,female,overall,overall,46
+Pahang,Rompin,2022/1/1,male,overall,overall,54.4
+Pahang,Temerloh,2022/1/1,both,overall,overall,171.4
+Pahang,Temerloh,2022/1/1,female,overall,overall,83.2
+Pahang,Temerloh,2022/1/1,male,overall,overall,88.2
+Perak,Bagan Datuk,2022/1/1,both,overall,overall,82.3
+Perak,Bagan Datuk,2022/1/1,female,overall,overall,36.9
+Perak,Bagan Datuk,2022/1/1,male,overall,overall,45.3
+Perak,Batang Padang,2022/1/1,both,overall,overall,125.7
+Perak,Batang Padang,2022/1/1,female,overall,overall,58.2
+Perak,Batang Padang,2022/1/1,male,overall,overall,67.5
+Perak,Hilir Perak,2022/1/1,both,overall,overall,142.3
+Perak,Hilir Perak,2022/1/1,female,overall,overall,66.7
+Perak,Hilir Perak,2022/1/1,male,overall,overall,75.6
+Perak,Hulu Perak,2022/1/1,both,overall,overall,95.9
+Perak,Hulu Perak,2022/1/1,female,overall,overall,46.2
+Perak,Hulu Perak,2022/1/1,male,overall,overall,49.6
+Perak,Kampar,2022/1/1,both,overall,overall,98.2
+Perak,Kampar,2022/1/1,female,overall,overall,48.1
+Perak,Kampar,2022/1/1,male,overall,overall,50
+Perak,Kerian,2022/1/1,both,overall,overall,167.5
+Perak,Kerian,2022/1/1,female,overall,overall,81.5
+Perak,Kerian,2022/1/1,male,overall,overall,86
+Perak,Kinta,2022/1/1,both,overall,overall,895.8
+Perak,Kinta,2022/1/1,female,overall,overall,433.2
+Perak,Kinta,2022/1/1,male,overall,overall,462.6
+Perak,Kuala Kangsar,2022/1/1,both,overall,overall,176.7
+Perak,Kuala Kangsar,2022/1/1,female,overall,overall,87.2
+Perak,Kuala Kangsar,2022/1/1,male,overall,overall,89.4
+Perak,Larut Dan Matang,2022/1/1,both,overall,overall,272.6
+Perak,Larut Dan Matang,2022/1/1,female,overall,overall,131.8
+Perak,Larut Dan Matang,2022/1/1,male,overall,overall,140.8
+Perak,Manjung,2022/1/1,both,overall,overall,249.6
+Perak,Manjung,2022/1/1,female,overall,overall,115.8
+Perak,Manjung,2022/1/1,male,overall,overall,133.7
+Perak,Muallim,2022/1/1,both,overall,overall,78
+Perak,Muallim,2022/1/1,female,overall,overall,40.7
+Perak,Muallim,2022/1/1,male,overall,overall,37.3
+Perak,Perak Tengah,2022/1/1,both,overall,overall,95.6
+Perak,Perak Tengah,2022/1/1,female,overall,overall,46.4
+Perak,Perak Tengah,2022/1/1,male,overall,overall,49.2
+Perak,Selama,2022/1/1,both,overall,overall,34.5
+Perak,Selama,2022/1/1,female,overall,overall,17.1
+Perak,Selama,2022/1/1,male,overall,overall,17.4
+Perlis,Perlis,2022/1/1,both,overall,overall,289.8
+Perlis,Perlis,2022/1/1,female,overall,overall,145.2
+Perlis,Perlis,2022/1/1,male,overall,overall,144.6
+Pulau Pinang,Barat Daya,2022/1/1,both,overall,overall,239.6
+Pulau Pinang,Barat Daya,2022/1/1,female,overall,overall,118.4
+Pulau Pinang,Barat Daya,2022/1/1,male,overall,overall,121.2
+Pulau Pinang,Seberang Perai Selatan,2022/1/1,both,overall,overall,185.5
+Pulau Pinang,Seberang Perai Selatan,2022/1/1,female,overall,overall,92
+Pulau Pinang,Seberang Perai Selatan,2022/1/1,male,overall,overall,93.5
+Pulau Pinang,Seberang Perai Tengah,2022/1/1,both,overall,overall,422.8
+Pulau Pinang,Seberang Perai Tengah,2022/1/1,female,overall,overall,199
+Pulau Pinang,Seberang Perai Tengah,2022/1/1,male,overall,overall,223.7
+Pulau Pinang,Seberang Perai Utara,2022/1/1,both,overall,overall,341.3
+Pulau Pinang,Seberang Perai Utara,2022/1/1,female,overall,overall,168
+Pulau Pinang,Seberang Perai Utara,2022/1/1,male,overall,overall,173.3
+Pulau Pinang,Timur Laut,2022/1/1,both,overall,overall,551.8
+Pulau Pinang,Timur Laut,2022/1/1,female,overall,overall,272.5
+Pulau Pinang,Timur Laut,2022/1/1,male,overall,overall,279.3
+Sabah,Beaufort,2022/1/1,both,overall,overall,76.1
+Sabah,Beaufort,2022/1/1,female,overall,overall,36.7
+Sabah,Beaufort,2022/1/1,male,overall,overall,39.4
+Sabah,Beluran,2022/1/1,both,overall,overall,76.3
+Sabah,Beluran,2022/1/1,female,overall,overall,35.2
+Sabah,Beluran,2022/1/1,male,overall,overall,41.1
+Sabah,Kalabakan,2022/1/1,both,overall,overall,46.6
+Sabah,Kalabakan,2022/1/1,female,overall,overall,21
+Sabah,Kalabakan,2022/1/1,male,overall,overall,25.6
+Sabah,Keningau,2022/1/1,both,overall,overall,153.2
+Sabah,Keningau,2022/1/1,female,overall,overall,74.1
+Sabah,Keningau,2022/1/1,male,overall,overall,79.1
+Sabah,Kinabatangan,2022/1/1,both,overall,overall,138.1
+Sabah,Kinabatangan,2022/1/1,female,overall,overall,61.4
+Sabah,Kinabatangan,2022/1/1,male,overall,overall,76.8
+Sabah,Kota Belud,2022/1/1,both,overall,overall,108.3
+Sabah,Kota Belud,2022/1/1,female,overall,overall,53.9
+Sabah,Kota Belud,2022/1/1,male,overall,overall,54.4
+Sabah,Kota Kinabalu,2022/1/1,both,overall,overall,500.8
+Sabah,Kota Kinabalu,2022/1/1,female,overall,overall,243.9
+Sabah,Kota Kinabalu,2022/1/1,male,overall,overall,256.9
+Sabah,Kota Marudu,2022/1/1,both,overall,overall,71.1
+Sabah,Kota Marudu,2022/1/1,female,overall,overall,34.7
+Sabah,Kota Marudu,2022/1/1,male,overall,overall,36.4
+Sabah,Kuala Penyu,2022/1/1,both,overall,overall,23.7
+Sabah,Kuala Penyu,2022/1/1,female,overall,overall,11.8
+Sabah,Kuala Penyu,2022/1/1,male,overall,overall,12
+Sabah,Kudat,2022/1/1,both,overall,overall,87.3
+Sabah,Kudat,2022/1/1,female,overall,overall,42.9
+Sabah,Kudat,2022/1/1,male,overall,overall,44.3
+Sabah,Kunak,2022/1/1,both,overall,overall,67.8
+Sabah,Kunak,2022/1/1,female,overall,overall,31.3
+Sabah,Kunak,2022/1/1,male,overall,overall,36.6
+Sabah,Lahad Datu,2022/1/1,both,overall,overall,226.9
+Sabah,Lahad Datu,2022/1/1,female,overall,overall,106.5
+Sabah,Lahad Datu,2022/1/1,male,overall,overall,120.5
+Sabah,Nabawan,2022/1/1,both,overall,overall,29.2
+Sabah,Nabawan,2022/1/1,female,overall,overall,13.8
+Sabah,Nabawan,2022/1/1,male,overall,overall,15.5
+Sabah,Papar,2022/1/1,both,overall,overall,152.6
+Sabah,Papar,2022/1/1,female,overall,overall,71.3
+Sabah,Papar,2022/1/1,male,overall,overall,81.3
+Sabah,Penampang,2022/1/1,both,overall,overall,163.2
+Sabah,Penampang,2022/1/1,female,overall,overall,77.1
+Sabah,Penampang,2022/1/1,male,overall,overall,86.1
+Sabah,Pitas,2022/1/1,both,overall,overall,37.3
+Sabah,Pitas,2022/1/1,female,overall,overall,18.1
+Sabah,Pitas,2022/1/1,male,overall,overall,19.2
+Sabah,Putatan,2022/1/1,both,overall,overall,69.2
+Sabah,Putatan,2022/1/1,female,overall,overall,32.9
+Sabah,Putatan,2022/1/1,male,overall,overall,36.3
+Sabah,Ranau,2022/1/1,both,overall,overall,86.3
+Sabah,Ranau,2022/1/1,female,overall,overall,41.8
+Sabah,Ranau,2022/1/1,male,overall,overall,44.5
+Sabah,Sandakan,2022/1/1,both,overall,overall,435.3
+Sabah,Sandakan,2022/1/1,female,overall,overall,210.6
+Sabah,Sandakan,2022/1/1,male,overall,overall,224.7
+Sabah,Semporna,2022/1/1,both,overall,overall,165.4
+Sabah,Semporna,2022/1/1,female,overall,overall,80.6
+Sabah,Semporna,2022/1/1,male,overall,overall,84.8
+Sabah,Sipitang,2022/1/1,both,overall,overall,38.1
+Sabah,Sipitang,2022/1/1,female,overall,overall,18.3
+Sabah,Sipitang,2022/1/1,male,overall,overall,19.9
+Sabah,Tambunan,2022/1/1,both,overall,overall,32.1
+Sabah,Tambunan,2022/1/1,female,overall,overall,15.8
+Sabah,Tambunan,2022/1/1,male,overall,overall,16.3
+Sabah,Tawau,2022/1/1,both,overall,overall,369.6
+Sabah,Tawau,2022/1/1,female,overall,overall,177.2
+Sabah,Tawau,2022/1/1,male,overall,overall,192.5
+Sabah,Telupid,2022/1/1,both,overall,overall,28.9
+Sabah,Telupid,2022/1/1,female,overall,overall,13.1
+Sabah,Telupid,2022/1/1,male,overall,overall,15.7
+Sabah,Tenom,2022/1/1,both,overall,overall,52
+Sabah,Tenom,2022/1/1,female,overall,overall,25.3
+Sabah,Tenom,2022/1/1,male,overall,overall,26.7
+Sabah,Tongod,2022/1/1,both,overall,overall,42.2
+Sabah,Tongod,2022/1/1,female,overall,overall,19.4
+Sabah,Tongod,2022/1/1,male,overall,overall,22.8
+Sabah,Tuaran,2022/1/1,both,overall,overall,137.1
+Sabah,Tuaran,2022/1/1,female,overall,overall,67.4
+Sabah,Tuaran,2022/1/1,male,overall,overall,69.7
+Sarawak,Asajaya,2022/1/1,both,overall,overall,34.1
+Sarawak,Asajaya,2022/1/1,female,overall,overall,16.7
+Sarawak,Asajaya,2022/1/1,male,overall,overall,17.4
+Sarawak,Bau,2022/1/1,both,overall,overall,53.1
+Sarawak,Bau,2022/1/1,female,overall,overall,25.6
+Sarawak,Bau,2022/1/1,male,overall,overall,27.5
+Sarawak,Belaga,2022/1/1,both,overall,overall,22.6
+Sarawak,Belaga,2022/1/1,female,overall,overall,9.7
+Sarawak,Belaga,2022/1/1,male,overall,overall,12.9
+Sarawak,Beluru,2022/1/1,both,overall,overall,28
+Sarawak,Beluru,2022/1/1,female,overall,overall,13
+Sarawak,Beluru,2022/1/1,male,overall,overall,15
+Sarawak,Betong,2022/1/1,both,overall,overall,36.5
+Sarawak,Betong,2022/1/1,female,overall,overall,17.6
+Sarawak,Betong,2022/1/1,male,overall,overall,18.9
+Sarawak,Bintulu,2022/1/1,both,overall,overall,179.7
+Sarawak,Bintulu,2022/1/1,female,overall,overall,82.8
+Sarawak,Bintulu,2022/1/1,male,overall,overall,96.9
+Sarawak,Bukit Mabong,2022/1/1,both,overall,overall,10.4
+Sarawak,Bukit Mabong,2022/1/1,female,overall,overall,4.1
+Sarawak,Bukit Mabong,2022/1/1,male,overall,overall,6.3
+Sarawak,Dalat,2022/1/1,both,overall,overall,21.2
+Sarawak,Dalat,2022/1/1,female,overall,overall,10.3
+Sarawak,Dalat,2022/1/1,male,overall,overall,10.9
+Sarawak,Daro,2022/1/1,both,overall,overall,19.6
+Sarawak,Daro,2022/1/1,female,overall,overall,9.1
+Sarawak,Daro,2022/1/1,male,overall,overall,10.6
+Sarawak,Julau,2022/1/1,both,overall,overall,15.4
+Sarawak,Julau,2022/1/1,female,overall,overall,7.8
+Sarawak,Julau,2022/1/1,male,overall,overall,7.6
+Sarawak,Kabong,2022/1/1,both,overall,overall,18.6
+Sarawak,Kabong,2022/1/1,female,overall,overall,9.3
+Sarawak,Kabong,2022/1/1,male,overall,overall,9.4
+Sarawak,Kanowit,2022/1/1,both,overall,overall,24.6
+Sarawak,Kanowit,2022/1/1,female,overall,overall,12.3
+Sarawak,Kanowit,2022/1/1,male,overall,overall,12.3
+Sarawak,Kapit,2022/1/1,both,overall,overall,36.2
+Sarawak,Kapit,2022/1/1,female,overall,overall,18
+Sarawak,Kapit,2022/1/1,male,overall,overall,18.2
+Sarawak,Kuching,2022/1/1,both,overall,overall,615.8
+Sarawak,Kuching,2022/1/1,female,overall,overall,305.2
+Sarawak,Kuching,2022/1/1,male,overall,overall,310.6
+Sarawak,Lawas,2022/1/1,both,overall,overall,37.2
+Sarawak,Lawas,2022/1/1,female,overall,overall,18.2
+Sarawak,Lawas,2022/1/1,male,overall,overall,18.9
+Sarawak,Limbang,2022/1/1,both,overall,overall,45.6
+Sarawak,Limbang,2022/1/1,female,overall,overall,22.2
+Sarawak,Limbang,2022/1/1,male,overall,overall,23.4
+Sarawak,Lubok Antu,2022/1/1,both,overall,overall,24.6
+Sarawak,Lubok Antu,2022/1/1,female,overall,overall,12.1
+Sarawak,Lubok Antu,2022/1/1,male,overall,overall,12.4
+Sarawak,Lundu,2022/1/1,both,overall,overall,33.8
+Sarawak,Lundu,2022/1/1,female,overall,overall,15.8
+Sarawak,Lundu,2022/1/1,male,overall,overall,18
+Sarawak,Maradong,2022/1/1,both,overall,overall,20.5
+Sarawak,Maradong,2022/1/1,female,overall,overall,10.3
+Sarawak,Maradong,2022/1/1,male,overall,overall,10.2
+Sarawak,Marudi,2022/1/1,both,overall,overall,18.8
+Sarawak,Marudi,2022/1/1,female,overall,overall,8.8
+Sarawak,Marudi,2022/1/1,male,overall,overall,10
+Sarawak,Matu,2022/1/1,both,overall,overall,16.4
+Sarawak,Matu,2022/1/1,female,overall,overall,7.5
+Sarawak,Matu,2022/1/1,male,overall,overall,8.8
+Sarawak,Miri,2022/1/1,both,overall,overall,251.2
+Sarawak,Miri,2022/1/1,female,overall,overall,119.8
+Sarawak,Miri,2022/1/1,male,overall,overall,131.3
+Sarawak,Mukah,2022/1/1,both,overall,overall,42.5
+Sarawak,Mukah,2022/1/1,female,overall,overall,20.1
+Sarawak,Mukah,2022/1/1,male,overall,overall,22.4
+Sarawak,Pakan,2022/1/1,both,overall,overall,15.6
+Sarawak,Pakan,2022/1/1,female,overall,overall,7.4
+Sarawak,Pakan,2022/1/1,male,overall,overall,8.2
+Sarawak,Pusa,2022/1/1,both,overall,overall,19.7
+Sarawak,Pusa,2022/1/1,female,overall,overall,9.6
+Sarawak,Pusa,2022/1/1,male,overall,overall,10.1
+Sarawak,Samarahan,2022/1/1,both,overall,overall,133.5
+Sarawak,Samarahan,2022/1/1,female,overall,overall,68.8
+Sarawak,Samarahan,2022/1/1,male,overall,overall,64.7
+Sarawak,Saratok,2022/1/1,both,overall,overall,23.1
+Sarawak,Saratok,2022/1/1,female,overall,overall,11.8
+Sarawak,Saratok,2022/1/1,male,overall,overall,11.4
+Sarawak,Sarikei,2022/1/1,both,overall,overall,44.4
+Sarawak,Sarikei,2022/1/1,female,overall,overall,22.2
+Sarawak,Sarikei,2022/1/1,male,overall,overall,22.3
+Sarawak,Sebauh,2022/1/1,both,overall,overall,29.1
+Sarawak,Sebauh,2022/1/1,female,overall,overall,12.7
+Sarawak,Sebauh,2022/1/1,male,overall,overall,16.4
+Sarawak,Selangau,2022/1/1,both,overall,overall,19.9
+Sarawak,Selangau,2022/1/1,female,overall,overall,9.7
+Sarawak,Selangau,2022/1/1,male,overall,overall,10.2
+Sarawak,Serian,2022/1/1,both,overall,overall,86
+Sarawak,Serian,2022/1/1,female,overall,overall,42
+Sarawak,Serian,2022/1/1,male,overall,overall,44
+Sarawak,Sibu,2022/1/1,both,overall,overall,249
+Sarawak,Sibu,2022/1/1,female,overall,overall,121.1
+Sarawak,Sibu,2022/1/1,male,overall,overall,127.9
+Sarawak,Simunjan,2022/1/1,both,overall,overall,36.5
+Sarawak,Simunjan,2022/1/1,female,overall,overall,17.4
+Sarawak,Simunjan,2022/1/1,male,overall,overall,19.1
+Sarawak,Song,2022/1/1,both,overall,overall,10
+Sarawak,Song,2022/1/1,female,overall,overall,5.2
+Sarawak,Song,2022/1/1,male,overall,overall,4.9
+Sarawak,Sri Aman,2022/1/1,both,overall,overall,61.1
+Sarawak,Sri Aman,2022/1/1,female,overall,overall,29.6
+Sarawak,Sri Aman,2022/1/1,male,overall,overall,31.6
+Sarawak,Subis,2022/1/1,both,overall,overall,56.6
+Sarawak,Subis,2022/1/1,female,overall,overall,25.3
+Sarawak,Subis,2022/1/1,male,overall,overall,31.3
+Sarawak,Tanjung Manis,2022/1/1,both,overall,overall,7.9
+Sarawak,Tanjung Manis,2022/1/1,female,overall,overall,3.8
+Sarawak,Tanjung Manis,2022/1/1,male,overall,overall,4.2
+Sarawak,Tatau,2022/1/1,both,overall,overall,32
+Sarawak,Tatau,2022/1/1,female,overall,overall,14.5
+Sarawak,Tatau,2022/1/1,male,overall,overall,17.5
+Sarawak,Tebedu,2022/1/1,both,overall,overall,25.3
+Sarawak,Tebedu,2022/1/1,female,overall,overall,12.4
+Sarawak,Tebedu,2022/1/1,male,overall,overall,12.8
+Sarawak,Telang Usan,2022/1/1,both,overall,overall,17.4
+Sarawak,Telang Usan,2022/1/1,female,overall,overall,8.1
+Sarawak,Telang Usan,2022/1/1,male,overall,overall,9.3
+Selangor,Gombak,2022/1/1,both,overall,overall,950.2
+Selangor,Gombak,2022/1/1,female,overall,overall,455.9
+Selangor,Gombak,2022/1/1,male,overall,overall,494.3
+Selangor,Klang,2022/1/1,both,overall,overall,1094.1
+Selangor,Klang,2022/1/1,female,overall,overall,504
+Selangor,Klang,2022/1/1,male,overall,overall,590.1
+Selangor,Kuala Langat,2022/1/1,both,overall,overall,314.5
+Selangor,Kuala Langat,2022/1/1,female,overall,overall,150.2
+Selangor,Kuala Langat,2022/1/1,male,overall,overall,164.3
+Selangor,Kuala Selangor,2022/1/1,both,overall,overall,287.6
+Selangor,Kuala Selangor,2022/1/1,female,overall,overall,141
+Selangor,Kuala Selangor,2022/1/1,male,overall,overall,146.7
+Selangor,Petaling,2022/1/1,both,overall,overall,2304.8
+Selangor,Petaling,2022/1/1,female,overall,overall,1084.9
+Selangor,Petaling,2022/1/1,male,overall,overall,1219.9
+Selangor,Sabak Bernam,2022/1/1,both,overall,overall,107.9
+Selangor,Sabak Bernam,2022/1/1,female,overall,overall,51.8
+Selangor,Sabak Bernam,2022/1/1,male,overall,overall,56.1
+Selangor,Sepang,2022/1/1,both,overall,overall,331.5
+Selangor,Sepang,2022/1/1,female,overall,overall,154.5
+Selangor,Sepang,2022/1/1,male,overall,overall,177
+Selangor,Ulu Langat,2022/1/1,both,overall,overall,1413.3
+Selangor,Ulu Langat,2022/1/1,female,overall,overall,668
+Selangor,Ulu Langat,2022/1/1,male,overall,overall,745.3
+Selangor,Ulu Selangor,2022/1/1,both,overall,overall,246.4
+Selangor,Ulu Selangor,2022/1/1,female,overall,overall,115.8
+Selangor,Ulu Selangor,2022/1/1,male,overall,overall,130.5
+Terengganu,Besut,2022/1/1,both,overall,overall,159.3
+Terengganu,Besut,2022/1/1,female,overall,overall,78.3
+Terengganu,Besut,2022/1/1,male,overall,overall,81
+Terengganu,Dungun,2022/1/1,both,overall,overall,162.5
+Terengganu,Dungun,2022/1/1,female,overall,overall,79
+Terengganu,Dungun,2022/1/1,male,overall,overall,83.5
+Terengganu,Hulu Terengganu,2022/1/1,both,overall,overall,72.3
+Terengganu,Hulu Terengganu,2022/1/1,female,overall,overall,33.9
+Terengganu,Hulu Terengganu,2022/1/1,male,overall,overall,38.4
+Terengganu,Kemaman,2022/1/1,both,overall,overall,221.7
+Terengganu,Kemaman,2022/1/1,female,overall,overall,105.4
+Terengganu,Kemaman,2022/1/1,male,overall,overall,116.3
+Terengganu,Kuala Nerus,2022/1/1,both,overall,overall,151.1
+Terengganu,Kuala Nerus,2022/1/1,female,overall,overall,75.8
+Terengganu,Kuala Nerus,2022/1/1,male,overall,overall,75.3
+Terengganu,Kuala Terengganu,2022/1/1,both,overall,overall,236.7
+Terengganu,Kuala Terengganu,2022/1/1,female,overall,overall,117.4
+Terengganu,Kuala Terengganu,2022/1/1,male,overall,overall,119.3
+Terengganu,Marang,2022/1/1,both,overall,overall,121.5
+Terengganu,Marang,2022/1/1,female,overall,overall,59.6
+Terengganu,Marang,2022/1/1,male,overall,overall,61.9
+Terengganu,Setiu,2022/1/1,both,overall,overall,61.5
+Terengganu,Setiu,2022/1/1,female,overall,overall,30.2
+Terengganu,Setiu,2022/1/1,male,overall,overall,31.3
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2022/1/1,both,overall,overall,1961.2
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2022/1/1,female,overall,overall,920.3
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2022/1/1,male,overall,overall,1040.8
+W.P. Labuan,W.P. Labuan,2022/1/1,both,overall,overall,96.9
+W.P. Labuan,W.P. Labuan,2022/1/1,female,overall,overall,47
+W.P. Labuan,W.P. Labuan,2022/1/1,male,overall,overall,49.8
+W.P. Putrajaya,W.P. Putrajaya,2022/1/1,both,overall,overall,117
+W.P. Putrajaya,W.P. Putrajaya,2022/1/1,female,overall,overall,59.4
+W.P. Putrajaya,W.P. Putrajaya,2022/1/1,male,overall,overall,57.6
+Johor,Batu Pahat,2023/1/1,both,overall,overall,504
+Johor,Batu Pahat,2023/1/1,male,overall,overall,266
+Johor,Batu Pahat,2023/1/1,female,overall,overall,238
+Johor,Johor Bahru,2023/1/1,both,overall,overall,1761.6
+Johor,Johor Bahru,2023/1/1,male,overall,overall,934.9
+Johor,Johor Bahru,2023/1/1,female,overall,overall,826.7
+Johor,Kluang,2023/1/1,both,overall,overall,328.7
+Johor,Kluang,2023/1/1,male,overall,overall,181.4
+Johor,Kluang,2023/1/1,female,overall,overall,147.3
+Johor,Kota Tinggi,2023/1/1,both,overall,overall,229.3
+Johor,Kota Tinggi,2023/1/1,male,overall,overall,121.9
+Johor,Kota Tinggi,2023/1/1,female,overall,overall,107.4
+Johor,Mersing,2023/1/1,both,overall,overall,80.1
+Johor,Mersing,2023/1/1,male,overall,overall,42.8
+Johor,Mersing,2023/1/1,female,overall,overall,37.3
+Johor,Muar,2023/1/1,both,overall,overall,318.7
+Johor,Muar,2023/1/1,male,overall,overall,175
+Johor,Muar,2023/1/1,female,overall,overall,143.7
+Johor,Pontian,2023/1/1,both,overall,overall,175.8
+Johor,Pontian,2023/1/1,male,overall,overall,94.2
+Johor,Pontian,2023/1/1,female,overall,overall,81.6
+Johor,Segamat,2023/1/1,both,overall,overall,201.6
+Johor,Segamat,2023/1/1,male,overall,overall,105.4
+Johor,Segamat,2023/1/1,female,overall,overall,96.3
+Johor,Kulai,2023/1/1,both,overall,overall,340.3
+Johor,Kulai,2023/1/1,male,overall,overall,183.7
+Johor,Kulai,2023/1/1,female,overall,overall,156.6
+Johor,Tangkak,2023/1/1,both,overall,overall,167.1
+Johor,Tangkak,2023/1/1,male,overall,overall,87.2
+Johor,Tangkak,2023/1/1,female,overall,overall,79.9
+Kedah,Baling,2023/1/1,both,overall,overall,146.7
+Kedah,Baling,2023/1/1,male,overall,overall,75
+Kedah,Baling,2023/1/1,female,overall,overall,71.7
+Kedah,Bandar Baharu,2023/1/1,both,overall,overall,45.1
+Kedah,Bandar Baharu,2023/1/1,male,overall,overall,23.1
+Kedah,Bandar Baharu,2023/1/1,female,overall,overall,22
+Kedah,Kota Setar,2023/1/1,both,overall,overall,379.3
+Kedah,Kota Setar,2023/1/1,male,overall,overall,188.5
+Kedah,Kota Setar,2023/1/1,female,overall,overall,190.8
+Kedah,Kuala Muda,2023/1/1,both,overall,overall,560.3
+Kedah,Kuala Muda,2023/1/1,male,overall,overall,288.4
+Kedah,Kuala Muda,2023/1/1,female,overall,overall,271.9
+Kedah,Kubang Pasu,2023/1/1,both,overall,overall,251.5
+Kedah,Kubang Pasu,2023/1/1,male,overall,overall,124
+Kedah,Kubang Pasu,2023/1/1,female,overall,overall,127.5
+Kedah,Kulim,2023/1/1,both,overall,overall,346.4
+Kedah,Kulim,2023/1/1,male,overall,overall,177.5
+Kedah,Kulim,2023/1/1,female,overall,overall,169
+Kedah,Langkawi,2023/1/1,both,overall,overall,98
+Kedah,Langkawi,2023/1/1,male,overall,overall,50.7
+Kedah,Langkawi,2023/1/1,female,overall,overall,47.4
+Kedah,Padang Terap,2023/1/1,both,overall,overall,67.1
+Kedah,Padang Terap,2023/1/1,male,overall,overall,34.8
+Kedah,Padang Terap,2023/1/1,female,overall,overall,32.2
+Kedah,Sik,2023/1/1,both,overall,overall,69.3
+Kedah,Sik,2023/1/1,male,overall,overall,35.3
+Kedah,Sik,2023/1/1,female,overall,overall,34
+Kedah,Yan,2023/1/1,both,overall,overall,74.3
+Kedah,Yan,2023/1/1,male,overall,overall,38.1
+Kedah,Yan,2023/1/1,female,overall,overall,36.1
+Kedah,Pendang,2023/1/1,both,overall,overall,100.7
+Kedah,Pendang,2023/1/1,male,overall,overall,53.2
+Kedah,Pendang,2023/1/1,female,overall,overall,47.5
+Kedah,Pokok Sena,2023/1/1,both,overall,overall,50.5
+Kedah,Pokok Sena,2023/1/1,male,overall,overall,27.5
+Kedah,Pokok Sena,2023/1/1,female,overall,overall,23
+Kelantan,Bachok,2023/1/1,both,overall,overall,163.1
+Kelantan,Bachok,2023/1/1,male,overall,overall,79.1
+Kelantan,Bachok,2023/1/1,female,overall,overall,84
+Kelantan,Kota Bharu,2023/1/1,both,overall,overall,575.8
+Kelantan,Kota Bharu,2023/1/1,male,overall,overall,287.8
+Kelantan,Kota Bharu,2023/1/1,female,overall,overall,288
+Kelantan,Machang,2023/1/1,both,overall,overall,115.3
+Kelantan,Machang,2023/1/1,male,overall,overall,57.3
+Kelantan,Machang,2023/1/1,female,overall,overall,57.9
+Kelantan,Pasir Mas,2023/1/1,both,overall,overall,237.5
+Kelantan,Pasir Mas,2023/1/1,male,overall,overall,120.3
+Kelantan,Pasir Mas,2023/1/1,female,overall,overall,117.2
+Kelantan,Pasir Puteh,2023/1/1,both,overall,overall,141
+Kelantan,Pasir Puteh,2023/1/1,male,overall,overall,69.9
+Kelantan,Pasir Puteh,2023/1/1,female,overall,overall,71.1
+Kelantan,Tanah Merah,2023/1/1,both,overall,overall,156.1
+Kelantan,Tanah Merah,2023/1/1,male,overall,overall,80.1
+Kelantan,Tanah Merah,2023/1/1,female,overall,overall,75.9
+Kelantan,Tumpat,2023/1/1,both,overall,overall,186.5
+Kelantan,Tumpat,2023/1/1,male,overall,overall,92.3
+Kelantan,Tumpat,2023/1/1,female,overall,overall,94.2
+Kelantan,Gua Musang,2023/1/1,both,overall,overall,107.2
+Kelantan,Gua Musang,2023/1/1,male,overall,overall,57.8
+Kelantan,Gua Musang,2023/1/1,female,overall,overall,49.4
+Kelantan,Kuala Krai,2023/1/1,both,overall,overall,109.4
+Kelantan,Kuala Krai,2023/1/1,male,overall,overall,55.1
+Kelantan,Kuala Krai,2023/1/1,female,overall,overall,54.3
+Kelantan,Jeli,2023/1/1,both,overall,overall,56.9
+Kelantan,Jeli,2023/1/1,male,overall,overall,28.5
+Kelantan,Jeli,2023/1/1,female,overall,overall,28.5
+Kelantan,Kecil Lojing,2023/1/1,both,overall,overall,11.1
+Kelantan,Kecil Lojing,2023/1/1,male,overall,overall,5.7
+Kelantan,Kecil Lojing,2023/1/1,female,overall,overall,5.4
+Melaka,Alor Gajah,2023/1/1,both,overall,overall,256.3
+Melaka,Alor Gajah,2023/1/1,male,overall,overall,132.6
+Melaka,Alor Gajah,2023/1/1,female,overall,overall,123.7
+Melaka,Jasin,2023/1/1,both,overall,overall,154.5
+Melaka,Jasin,2023/1/1,male,overall,overall,82.5
+Melaka,Jasin,2023/1/1,female,overall,overall,72
+Melaka,Melaka Tengah,2023/1/1,both,overall,overall,617.5
+Melaka,Melaka Tengah,2023/1/1,male,overall,overall,326.8
+Melaka,Melaka Tengah,2023/1/1,female,overall,overall,290.7
+Negeri Sembilan,Jelebu,2023/1/1,both,overall,overall,47.5
+Negeri Sembilan,Jelebu,2023/1/1,male,overall,overall,26
+Negeri Sembilan,Jelebu,2023/1/1,female,overall,overall,21.5
+Negeri Sembilan,Kuala Pilah,2023/1/1,both,overall,overall,71.4
+Negeri Sembilan,Kuala Pilah,2023/1/1,male,overall,overall,36.7
+Negeri Sembilan,Kuala Pilah,2023/1/1,female,overall,overall,34.6
+Negeri Sembilan,Port Dickson,2023/1/1,both,overall,overall,132.7
+Negeri Sembilan,Port Dickson,2023/1/1,male,overall,overall,70.4
+Negeri Sembilan,Port Dickson,2023/1/1,female,overall,overall,62.4
+Negeri Sembilan,Rembau,2023/1/1,both,overall,overall,48.5
+Negeri Sembilan,Rembau,2023/1/1,male,overall,overall,24.7
+Negeri Sembilan,Rembau,2023/1/1,female,overall,overall,23.8
+Negeri Sembilan,Seremban,2023/1/1,both,overall,overall,705.5
+Negeri Sembilan,Seremban,2023/1/1,male,overall,overall,363.2
+Negeri Sembilan,Seremban,2023/1/1,female,overall,overall,342.3
+Negeri Sembilan,Tampin,2023/1/1,both,overall,overall,89.8
+Negeri Sembilan,Tampin,2023/1/1,male,overall,overall,47.7
+Negeri Sembilan,Tampin,2023/1/1,female,overall,overall,42.2
+Negeri Sembilan,Jempol,2023/1/1,both,overall,overall,129.5
+Negeri Sembilan,Jempol,2023/1/1,male,overall,overall,66.7
+Negeri Sembilan,Jempol,2023/1/1,female,overall,overall,62.7
+Pahang,Bentong,2023/1/1,both,overall,overall,119.6
+Pahang,Bentong,2023/1/1,male,overall,overall,68.1
+Pahang,Bentong,2023/1/1,female,overall,overall,51.5
+Pahang,Cameron Highlands,2023/1/1,both,overall,overall,40.9
+Pahang,Cameron Highlands,2023/1/1,male,overall,overall,23.7
+Pahang,Cameron Highlands,2023/1/1,female,overall,overall,17.2
+Pahang,Jerantut,2023/1/1,both,overall,overall,98.6
+Pahang,Jerantut,2023/1/1,male,overall,overall,52.6
+Pahang,Jerantut,2023/1/1,female,overall,overall,46
+Pahang,Kuantan,2023/1/1,both,overall,overall,565.8
+Pahang,Kuantan,2023/1/1,male,overall,overall,294.3
+Pahang,Kuantan,2023/1/1,female,overall,overall,271.5
+Pahang,Lipis,2023/1/1,both,overall,overall,100.1
+Pahang,Lipis,2023/1/1,male,overall,overall,53.4
+Pahang,Lipis,2023/1/1,female,overall,overall,46.6
+Pahang,Pekan,2023/1/1,both,overall,overall,125.9
+Pahang,Pekan,2023/1/1,male,overall,overall,67.9
+Pahang,Pekan,2023/1/1,female,overall,overall,58.1
+Pahang,Raub,2023/1/1,both,overall,overall,98.8
+Pahang,Raub,2023/1/1,male,overall,overall,52.6
+Pahang,Raub,2023/1/1,female,overall,overall,46.2
+Pahang,Temerloh,2023/1/1,both,overall,overall,174.7
+Pahang,Temerloh,2023/1/1,male,overall,overall,90.5
+Pahang,Temerloh,2023/1/1,female,overall,overall,84.2
+Pahang,Rompin,2023/1/1,both,overall,overall,101.6
+Pahang,Rompin,2023/1/1,male,overall,overall,54.9
+Pahang,Rompin,2023/1/1,female,overall,overall,46.7
+Pahang,Maran,2023/1/1,both,overall,overall,117
+Pahang,Maran,2023/1/1,male,overall,overall,61.4
+Pahang,Maran,2023/1/1,female,overall,overall,55.5
+Pahang,Bera,2023/1/1,both,overall,overall,100.1
+Pahang,Bera,2023/1/1,male,overall,overall,53.5
+Pahang,Bera,2023/1/1,female,overall,overall,46.6
+Pulau Pinang,Seberang Perai Tengah,2023/1/1,both,overall,overall,433.5
+Pulau Pinang,Seberang Perai Tengah,2023/1/1,male,overall,overall,230.7
+Pulau Pinang,Seberang Perai Tengah,2023/1/1,female,overall,overall,202.9
+Pulau Pinang,Seberang Perai Utara,2023/1/1,both,overall,overall,346.6
+Pulau Pinang,Seberang Perai Utara,2023/1/1,male,overall,overall,176.2
+Pulau Pinang,Seberang Perai Utara,2023/1/1,female,overall,overall,170.4
+Pulau Pinang,Seberang Perai Selatan,2023/1/1,both,overall,overall,186.8
+Pulau Pinang,Seberang Perai Selatan,2023/1/1,male,overall,overall,94.1
+Pulau Pinang,Seberang Perai Selatan,2023/1/1,female,overall,overall,92.7
+Pulau Pinang,Timur Laut,2023/1/1,both,overall,overall,561.6
+Pulau Pinang,Timur Laut,2023/1/1,male,overall,overall,284.7
+Pulau Pinang,Timur Laut,2023/1/1,female,overall,overall,276.9
+Pulau Pinang,Barat Daya,2023/1/1,both,overall,overall,244.2
+Pulau Pinang,Barat Daya,2023/1/1,male,overall,overall,122.9
+Pulau Pinang,Barat Daya,2023/1/1,female,overall,overall,121.3
+Perak,Batang Padang,2023/1/1,both,overall,overall,126.2
+Perak,Batang Padang,2023/1/1,male,overall,overall,67.8
+Perak,Batang Padang,2023/1/1,female,overall,overall,58.4
+Perak,Manjung,2023/1/1,both,overall,overall,252.3
+Perak,Manjung,2023/1/1,male,overall,overall,135.5
+Perak,Manjung,2023/1/1,female,overall,overall,116.7
+Perak,Kinta,2023/1/1,both,overall,overall,909.1
+Perak,Kinta,2023/1/1,male,overall,overall,472.8
+Perak,Kinta,2023/1/1,female,overall,overall,436.3
+Perak,Kerian,2023/1/1,both,overall,overall,168.5
+Perak,Kerian,2023/1/1,male,overall,overall,86.6
+Perak,Kerian,2023/1/1,female,overall,overall,82
+Perak,Kuala Kangsar,2023/1/1,both,overall,overall,178.3
+Perak,Kuala Kangsar,2023/1/1,male,overall,overall,90.5
+Perak,Kuala Kangsar,2023/1/1,female,overall,overall,87.8
+Perak,Larut Dan Matang,2023/1/1,both,overall,overall,275.4
+Perak,Larut Dan Matang,2023/1/1,male,overall,overall,142.8
+Perak,Larut Dan Matang,2023/1/1,female,overall,overall,132.6
+Perak,Hilir Perak,2023/1/1,both,overall,overall,142.1
+Perak,Hilir Perak,2023/1/1,male,overall,overall,75.1
+Perak,Hilir Perak,2023/1/1,female,overall,overall,67
+Perak,Hulu Perak,2023/1/1,both,overall,overall,97.1
+Perak,Hulu Perak,2023/1/1,male,overall,overall,50.4
+Perak,Hulu Perak,2023/1/1,female,overall,overall,46.7
+Perak,Perak Tengah,2023/1/1,both,overall,overall,97.2
+Perak,Perak Tengah,2023/1/1,male,overall,overall,50.3
+Perak,Perak Tengah,2023/1/1,female,overall,overall,46.9
+Perak,Kampar,2023/1/1,both,overall,overall,98.9
+Perak,Kampar,2023/1/1,male,overall,overall,50.6
+Perak,Kampar,2023/1/1,female,overall,overall,48.4
+Perak,Muallim,2023/1/1,both,overall,overall,78.6
+Perak,Muallim,2023/1/1,male,overall,overall,37.6
+Perak,Muallim,2023/1/1,female,overall,overall,41
+Perak,Bagan Datuk,2023/1/1,both,overall,overall,82.8
+Perak,Bagan Datuk,2023/1/1,male,overall,overall,45.7
+Perak,Bagan Datuk,2023/1/1,female,overall,overall,37.1
+Perak,Selama,2023/1/1,both,overall,overall,34.8
+Perak,Selama,2023/1/1,male,overall,overall,17.7
+Perak,Selama,2023/1/1,female,overall,overall,17.1
+Selangor,Gombak,2023/1/1,both,overall,overall,966.2
+Selangor,Gombak,2023/1/1,male,overall,overall,503.6
+Selangor,Gombak,2023/1/1,female,overall,overall,462.6
+Selangor,Klang,2023/1/1,both,overall,overall,1134
+Selangor,Klang,2023/1/1,male,overall,overall,620.2
+Selangor,Klang,2023/1/1,female,overall,overall,513.8
+Selangor,Kuala Langat,2023/1/1,both,overall,overall,320.7
+Selangor,Kuala Langat,2023/1/1,male,overall,overall,168
+Selangor,Kuala Langat,2023/1/1,female,overall,overall,152.7
+Selangor,Kuala Selangor,2023/1/1,both,overall,overall,293.2
+Selangor,Kuala Selangor,2023/1/1,male,overall,overall,150.2
+Selangor,Kuala Selangor,2023/1/1,female,overall,overall,143
+Selangor,Petaling,2023/1/1,both,overall,overall,2334.7
+Selangor,Petaling,2023/1/1,male,overall,overall,1238.7
+Selangor,Petaling,2023/1/1,female,overall,overall,1096.1
+Selangor,Sabak Bernam,2023/1/1,both,overall,overall,109.2
+Selangor,Sabak Bernam,2023/1/1,male,overall,overall,56.9
+Selangor,Sabak Bernam,2023/1/1,female,overall,overall,52.3
+Selangor,Sepang,2023/1/1,both,overall,overall,339.2
+Selangor,Sepang,2023/1/1,male,overall,overall,181.6
+Selangor,Sepang,2023/1/1,female,overall,overall,157.6
+Selangor,Ulu Langat,2023/1/1,both,overall,overall,1460.3
+Selangor,Ulu Langat,2023/1/1,male,overall,overall,777
+Selangor,Ulu Langat,2023/1/1,female,overall,overall,683.3
+Selangor,Ulu Selangor,2023/1/1,both,overall,overall,252.2
+Selangor,Ulu Selangor,2023/1/1,male,overall,overall,134.5
+Selangor,Ulu Selangor,2023/1/1,female,overall,overall,117.7
+Terengganu,Besut,2023/1/1,both,overall,overall,162.6
+Terengganu,Besut,2023/1/1,male,overall,overall,82.9
+Terengganu,Besut,2023/1/1,female,overall,overall,79.8
+Terengganu,Dungun,2023/1/1,both,overall,overall,165.3
+Terengganu,Dungun,2023/1/1,male,overall,overall,85
+Terengganu,Dungun,2023/1/1,female,overall,overall,80.3
+Terengganu,Kemaman,2023/1/1,both,overall,overall,226.7
+Terengganu,Kemaman,2023/1/1,male,overall,overall,119.6
+Terengganu,Kemaman,2023/1/1,female,overall,overall,107.1
+Terengganu,Kuala Terengganu,2023/1/1,both,overall,overall,241
+Terengganu,Kuala Terengganu,2023/1/1,male,overall,overall,121.6
+Terengganu,Kuala Terengganu,2023/1/1,female,overall,overall,119.4
+Terengganu,Marang,2023/1/1,both,overall,overall,124.2
+Terengganu,Marang,2023/1/1,male,overall,overall,63.3
+Terengganu,Marang,2023/1/1,female,overall,overall,60.8
+Terengganu,Hulu Terengganu,2023/1/1,both,overall,overall,73.7
+Terengganu,Hulu Terengganu,2023/1/1,male,overall,overall,39.4
+Terengganu,Hulu Terengganu,2023/1/1,female,overall,overall,34.3
+Terengganu,Setiu,2023/1/1,both,overall,overall,62.9
+Terengganu,Setiu,2023/1/1,male,overall,overall,32.1
+Terengganu,Setiu,2023/1/1,female,overall,overall,30.8
+Terengganu,Kuala Nerus,2023/1/1,both,overall,overall,153.6
+Terengganu,Kuala Nerus,2023/1/1,male,overall,overall,76.6
+Terengganu,Kuala Nerus,2023/1/1,female,overall,overall,77
+Sabah,Tawau,2023/1/1,both,overall,overall,394.2
+Sabah,Tawau,2023/1/1,male,overall,overall,205.5
+Sabah,Tawau,2023/1/1,female,overall,overall,188.6
+Sabah,Lahad Datu,2023/1/1,both,overall,overall,242.1
+Sabah,Lahad Datu,2023/1/1,male,overall,overall,128.7
+Sabah,Lahad Datu,2023/1/1,female,overall,overall,113.4
+Sabah,Semporna,2023/1/1,both,overall,overall,186
+Sabah,Semporna,2023/1/1,male,overall,overall,95.5
+Sabah,Semporna,2023/1/1,female,overall,overall,90.5
+Sabah,Sandakan,2023/1/1,both,overall,overall,470.4
+Sabah,Sandakan,2023/1/1,male,overall,overall,243.5
+Sabah,Sandakan,2023/1/1,female,overall,overall,226.9
+Sabah,Kinabatangan,2023/1/1,both,overall,overall,149.1
+Sabah,Kinabatangan,2023/1/1,male,overall,overall,82.9
+Sabah,Kinabatangan,2023/1/1,female,overall,overall,66.2
+Sabah,Beluran,2023/1/1,both,overall,overall,83.9
+Sabah,Beluran,2023/1/1,male,overall,overall,45.5
+Sabah,Beluran,2023/1/1,female,overall,overall,38.4
+Sabah,Kota Kinabalu,2023/1/1,both,overall,overall,525.7
+Sabah,Kota Kinabalu,2023/1/1,male,overall,overall,270.4
+Sabah,Kota Kinabalu,2023/1/1,female,overall,overall,255.3
+Sabah,Ranau,2023/1/1,both,overall,overall,87.5
+Sabah,Ranau,2023/1/1,male,overall,overall,45.2
+Sabah,Ranau,2023/1/1,female,overall,overall,42.4
+Sabah,Kota Belud,2023/1/1,both,overall,overall,109.6
+Sabah,Kota Belud,2023/1/1,male,overall,overall,55.1
+Sabah,Kota Belud,2023/1/1,female,overall,overall,54.5
+Sabah,Tuaran,2023/1/1,both,overall,overall,140
+Sabah,Tuaran,2023/1/1,male,overall,overall,71.1
+Sabah,Tuaran,2023/1/1,female,overall,overall,68.9
+Sabah,Penampang,2023/1/1,both,overall,overall,165.9
+Sabah,Penampang,2023/1/1,male,overall,overall,87.7
+Sabah,Penampang,2023/1/1,female,overall,overall,78.1
+Sabah,Papar,2023/1/1,both,overall,overall,154.8
+Sabah,Papar,2023/1/1,male,overall,overall,82.5
+Sabah,Papar,2023/1/1,female,overall,overall,72.3
+Sabah,Kudat,2023/1/1,both,overall,overall,90.7
+Sabah,Kudat,2023/1/1,male,overall,overall,46.1
+Sabah,Kudat,2023/1/1,female,overall,overall,44.6
+Sabah,Kota Marudu,2023/1/1,both,overall,overall,72.4
+Sabah,Kota Marudu,2023/1/1,male,overall,overall,37.1
+Sabah,Kota Marudu,2023/1/1,female,overall,overall,35.3
+Sabah,Pitas,2023/1/1,both,overall,overall,38
+Sabah,Pitas,2023/1/1,male,overall,overall,19.6
+Sabah,Pitas,2023/1/1,female,overall,overall,18.4
+Sabah,Beaufort,2023/1/1,both,overall,overall,77
+Sabah,Beaufort,2023/1/1,male,overall,overall,39.9
+Sabah,Beaufort,2023/1/1,female,overall,overall,37.2
+Sabah,Kuala Penyu,2023/1/1,both,overall,overall,24.2
+Sabah,Kuala Penyu,2023/1/1,male,overall,overall,12.2
+Sabah,Kuala Penyu,2023/1/1,female,overall,overall,12
+Sabah,Sipitang,2023/1/1,both,overall,overall,39.4
+Sabah,Sipitang,2023/1/1,male,overall,overall,20.5
+Sabah,Sipitang,2023/1/1,female,overall,overall,18.8
+Sabah,Tenom,2023/1/1,both,overall,overall,52.9
+Sabah,Tenom,2023/1/1,male,overall,overall,27.2
+Sabah,Tenom,2023/1/1,female,overall,overall,25.7
+Sabah,Nabawan,2023/1/1,both,overall,overall,30.1
+Sabah,Nabawan,2023/1/1,male,overall,overall,16
+Sabah,Nabawan,2023/1/1,female,overall,overall,14.1
+Sabah,Keningau,2023/1/1,both,overall,overall,156.1
+Sabah,Keningau,2023/1/1,male,overall,overall,80.5
+Sabah,Keningau,2023/1/1,female,overall,overall,75.6
+Sabah,Tambunan,2023/1/1,both,overall,overall,32.7
+Sabah,Tambunan,2023/1/1,male,overall,overall,16.6
+Sabah,Tambunan,2023/1/1,female,overall,overall,16.1
+Sabah,Kunak,2023/1/1,both,overall,overall,76.2
+Sabah,Kunak,2023/1/1,male,overall,overall,41.2
+Sabah,Kunak,2023/1/1,female,overall,overall,34.9
+Sabah,Tongod,2023/1/1,both,overall,overall,44
+Sabah,Tongod,2023/1/1,male,overall,overall,23.8
+Sabah,Tongod,2023/1/1,female,overall,overall,20.2
+Sabah,Putatan,2023/1/1,both,overall,overall,70.2
+Sabah,Putatan,2023/1/1,male,overall,overall,36.8
+Sabah,Putatan,2023/1/1,female,overall,overall,33.5
+Sabah,Telupid,2023/1/1,both,overall,overall,30.3
+Sabah,Telupid,2023/1/1,male,overall,overall,16.5
+Sabah,Telupid,2023/1/1,female,overall,overall,13.8
+Sabah,Kalabakan,2023/1/1,both,overall,overall,53.3
+Sabah,Kalabakan,2023/1/1,male,overall,overall,29.3
+Sabah,Kalabakan,2023/1/1,female,overall,overall,24
+Sarawak,Kuching,2023/1/1,both,overall,overall,621.3
+Sarawak,Kuching,2023/1/1,male,overall,overall,313.3
+Sarawak,Kuching,2023/1/1,female,overall,overall,308
+Sarawak,Bau,2023/1/1,both,overall,overall,53.6
+Sarawak,Bau,2023/1/1,male,overall,overall,27.7
+Sarawak,Bau,2023/1/1,female,overall,overall,25.8
+Sarawak,Lundu,2023/1/1,both,overall,overall,34.2
+Sarawak,Lundu,2023/1/1,male,overall,overall,18.3
+Sarawak,Lundu,2023/1/1,female,overall,overall,15.9
+Sarawak,Samarahan,2023/1/1,both,overall,overall,134.6
+Sarawak,Samarahan,2023/1/1,male,overall,overall,65.2
+Sarawak,Samarahan,2023/1/1,female,overall,overall,69.4
+Sarawak,Serian,2023/1/1,both,overall,overall,86.9
+Sarawak,Serian,2023/1/1,male,overall,overall,44.5
+Sarawak,Serian,2023/1/1,female,overall,overall,42.4
+Sarawak,Simunjan,2023/1/1,both,overall,overall,36.9
+Sarawak,Simunjan,2023/1/1,male,overall,overall,19.3
+Sarawak,Simunjan,2023/1/1,female,overall,overall,17.6
+Sarawak,Sri Aman,2023/1/1,both,overall,overall,61.3
+Sarawak,Sri Aman,2023/1/1,male,overall,overall,31.6
+Sarawak,Sri Aman,2023/1/1,female,overall,overall,29.7
+Sarawak,Lubok Antu,2023/1/1,both,overall,overall,24.6
+Sarawak,Lubok Antu,2023/1/1,male,overall,overall,12.4
+Sarawak,Lubok Antu,2023/1/1,female,overall,overall,12.2
+Sarawak,Betong,2023/1/1,both,overall,overall,36.8
+Sarawak,Betong,2023/1/1,male,overall,overall,19.1
+Sarawak,Betong,2023/1/1,female,overall,overall,17.7
+Sarawak,Saratok,2023/1/1,both,overall,overall,23.4
+Sarawak,Saratok,2023/1/1,male,overall,overall,11.5
+Sarawak,Saratok,2023/1/1,female,overall,overall,11.9
+Sarawak,Sarikei,2023/1/1,both,overall,overall,44.7
+Sarawak,Sarikei,2023/1/1,male,overall,overall,22.4
+Sarawak,Sarikei,2023/1/1,female,overall,overall,22.3
+Sarawak,Maradong,2023/1/1,both,overall,overall,20.7
+Sarawak,Maradong,2023/1/1,male,overall,overall,10.3
+Sarawak,Maradong,2023/1/1,female,overall,overall,10.4
+Sarawak,Daro,2023/1/1,both,overall,overall,19.9
+Sarawak,Daro,2023/1/1,male,overall,overall,10.7
+Sarawak,Daro,2023/1/1,female,overall,overall,9.2
+Sarawak,Julau,2023/1/1,both,overall,overall,15.5
+Sarawak,Julau,2023/1/1,male,overall,overall,7.7
+Sarawak,Julau,2023/1/1,female,overall,overall,7.8
+Sarawak,Sibu,2023/1/1,both,overall,overall,252.9
+Sarawak,Sibu,2023/1/1,male,overall,overall,130.4
+Sarawak,Sibu,2023/1/1,female,overall,overall,122.5
+Sarawak,Dalat,2023/1/1,both,overall,overall,21.6
+Sarawak,Dalat,2023/1/1,male,overall,overall,11.2
+Sarawak,Dalat,2023/1/1,female,overall,overall,10.4
+Sarawak,Mukah,2023/1/1,both,overall,overall,42.7
+Sarawak,Mukah,2023/1/1,male,overall,overall,22.5
+Sarawak,Mukah,2023/1/1,female,overall,overall,20.2
+Sarawak,Kanowit,2023/1/1,both,overall,overall,24.9
+Sarawak,Kanowit,2023/1/1,male,overall,overall,12.4
+Sarawak,Kanowit,2023/1/1,female,overall,overall,12.5
+Sarawak,Bintulu,2023/1/1,both,overall,overall,185.2
+Sarawak,Bintulu,2023/1/1,male,overall,overall,100.3
+Sarawak,Bintulu,2023/1/1,female,overall,overall,84.9
+Sarawak,Tatau,2023/1/1,both,overall,overall,32.1
+Sarawak,Tatau,2023/1/1,male,overall,overall,17.5
+Sarawak,Tatau,2023/1/1,female,overall,overall,14.6
+Sarawak,Kapit,2023/1/1,both,overall,overall,36.6
+Sarawak,Kapit,2023/1/1,male,overall,overall,18.4
+Sarawak,Kapit,2023/1/1,female,overall,overall,18.2
+Sarawak,Song,2023/1/1,both,overall,overall,10.2
+Sarawak,Song,2023/1/1,male,overall,overall,5
+Sarawak,Song,2023/1/1,female,overall,overall,5.2
+Sarawak,Belaga,2023/1/1,both,overall,overall,22.7
+Sarawak,Belaga,2023/1/1,male,overall,overall,12.9
+Sarawak,Belaga,2023/1/1,female,overall,overall,9.7
+Sarawak,Miri,2023/1/1,both,overall,overall,254.4
+Sarawak,Miri,2023/1/1,male,overall,overall,133.1
+Sarawak,Miri,2023/1/1,female,overall,overall,121.3
+Sarawak,Marudi,2023/1/1,both,overall,overall,18.7
+Sarawak,Marudi,2023/1/1,male,overall,overall,9.9
+Sarawak,Marudi,2023/1/1,female,overall,overall,8.8
+Sarawak,Limbang,2023/1/1,both,overall,overall,46.1
+Sarawak,Limbang,2023/1/1,male,overall,overall,23.7
+Sarawak,Limbang,2023/1/1,female,overall,overall,22.4
+Sarawak,Lawas,2023/1/1,both,overall,overall,37.7
+Sarawak,Lawas,2023/1/1,male,overall,overall,19.2
+Sarawak,Lawas,2023/1/1,female,overall,overall,18.5
+Sarawak,Matu,2023/1/1,both,overall,overall,16.5
+Sarawak,Matu,2023/1/1,male,overall,overall,8.9
+Sarawak,Matu,2023/1/1,female,overall,overall,7.6
+Sarawak,Asajaya,2023/1/1,both,overall,overall,34.5
+Sarawak,Asajaya,2023/1/1,male,overall,overall,17.6
+Sarawak,Asajaya,2023/1/1,female,overall,overall,17
+Sarawak,Pakan,2023/1/1,both,overall,overall,15.6
+Sarawak,Pakan,2023/1/1,male,overall,overall,8.2
+Sarawak,Pakan,2023/1/1,female,overall,overall,7.4
+Sarawak,Selangau,2023/1/1,both,overall,overall,20.3
+Sarawak,Selangau,2023/1/1,male,overall,overall,10.5
+Sarawak,Selangau,2023/1/1,female,overall,overall,9.8
+Sarawak,Tebedu,2023/1/1,both,overall,overall,25.5
+Sarawak,Tebedu,2023/1/1,male,overall,overall,12.9
+Sarawak,Tebedu,2023/1/1,female,overall,overall,12.6
+Sarawak,Pusa,2023/1/1,both,overall,overall,20
+Sarawak,Pusa,2023/1/1,male,overall,overall,10.3
+Sarawak,Pusa,2023/1/1,female,overall,overall,9.7
+Sarawak,Kabong,2023/1/1,both,overall,overall,18.8
+Sarawak,Kabong,2023/1/1,male,overall,overall,9.4
+Sarawak,Kabong,2023/1/1,female,overall,overall,9.4
+Sarawak,Tanjung Manis,2023/1/1,both,overall,overall,8
+Sarawak,Tanjung Manis,2023/1/1,male,overall,overall,4.2
+Sarawak,Tanjung Manis,2023/1/1,female,overall,overall,3.8
+Sarawak,Sebauh,2023/1/1,both,overall,overall,31.2
+Sarawak,Sebauh,2023/1/1,male,overall,overall,17.7
+Sarawak,Sebauh,2023/1/1,female,overall,overall,13.5
+Sarawak,Bukit Mabong,2023/1/1,both,overall,overall,10.6
+Sarawak,Bukit Mabong,2023/1/1,male,overall,overall,6.4
+Sarawak,Bukit Mabong,2023/1/1,female,overall,overall,4.1
+Sarawak,Subis,2023/1/1,both,overall,overall,56
+Sarawak,Subis,2023/1/1,male,overall,overall,30.9
+Sarawak,Subis,2023/1/1,female,overall,overall,25.1
+Sarawak,Beluru,2023/1/1,both,overall,overall,27.7
+Sarawak,Beluru,2023/1/1,male,overall,overall,14.8
+Sarawak,Beluru,2023/1/1,female,overall,overall,12.9
+Sarawak,Telang Usan,2023/1/1,both,overall,overall,17.4
+Sarawak,Telang Usan,2023/1/1,male,overall,overall,9.3
+Sarawak,Telang Usan,2023/1/1,female,overall,overall,8.1
+Perlis,Perlis,2023/1/1,both,overall,overall,293.1
+Perlis,Perlis,2023/1/1,male,overall,overall,146.2
+Perlis,Perlis,2023/1/1,female,overall,overall,146.9
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2023/1/1,both,overall,overall,2005.7
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2023/1/1,male,overall,overall,1072.1
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2023/1/1,female,overall,overall,933.6
+W.P. Labuan,W.P. Labuan,2023/1/1,both,overall,overall,99
+W.P. Labuan,W.P. Labuan,2023/1/1,male,overall,overall,50.8
+W.P. Labuan,W.P. Labuan,2023/1/1,female,overall,overall,48.2
+W.P. Putrajaya,W.P. Putrajaya,2023/1/1,both,overall,overall,118.8
+W.P. Putrajaya,W.P. Putrajaya,2023/1/1,male,overall,overall,58.6
+W.P. Putrajaya,W.P. Putrajaya,2023/1/1,female,overall,overall,60.2
+Johor,Batu Pahat,2024/1/1,both,overall,overall,510.4
+Johor,Batu Pahat,2024/1/1,male,overall,overall,270.4
+Johor,Batu Pahat,2024/1/1,female,overall,overall,240
+Johor,Johor Bahru,2024/1/1,both,overall,overall,1800
+Johor,Johor Bahru,2024/1/1,male,overall,overall,960.7
+Johor,Johor Bahru,2024/1/1,female,overall,overall,839.3
+Johor,Kluang,2024/1/1,both,overall,overall,333.8
+Johor,Kluang,2024/1/1,male,overall,overall,185.1
+Johor,Kluang,2024/1/1,female,overall,overall,148.7
+Johor,Kota Tinggi,2024/1/1,both,overall,overall,233.8
+Johor,Kota Tinggi,2024/1/1,male,overall,overall,125
+Johor,Kota Tinggi,2024/1/1,female,overall,overall,108.8
+Johor,Mersing,2024/1/1,both,overall,overall,81.1
+Johor,Mersing,2024/1/1,male,overall,overall,43.4
+Johor,Mersing,2024/1/1,female,overall,overall,37.6
+Johor,Muar,2024/1/1,both,overall,overall,323.3
+Johor,Muar,2024/1/1,male,overall,overall,178.6
+Johor,Muar,2024/1/1,female,overall,overall,144.7
+Johor,Pontian,2024/1/1,both,overall,overall,177.9
+Johor,Pontian,2024/1/1,male,overall,overall,95.5
+Johor,Pontian,2024/1/1,female,overall,overall,82.4
+Johor,Segamat,2024/1/1,both,overall,overall,205.1
+Johor,Segamat,2024/1/1,male,overall,overall,108
+Johor,Segamat,2024/1/1,female,overall,overall,97.1
+Johor,Kulai,2024/1/1,both,overall,overall,351.4
+Johor,Kulai,2024/1/1,male,overall,overall,191
+Johor,Kulai,2024/1/1,female,overall,overall,160.4
+Johor,Tangkak,2024/1/1,both,overall,overall,169.5
+Johor,Tangkak,2024/1/1,male,overall,overall,88.8
+Johor,Tangkak,2024/1/1,female,overall,overall,80.7
+Kedah,Baling,2024/1/1,both,overall,overall,148.1
+Kedah,Baling,2024/1/1,male,overall,overall,75.7
+Kedah,Baling,2024/1/1,female,overall,overall,72.3
+Kedah,Bandar Baharu,2024/1/1,both,overall,overall,45.6
+Kedah,Bandar Baharu,2024/1/1,male,overall,overall,23.4
+Kedah,Bandar Baharu,2024/1/1,female,overall,overall,22.2
+Kedah,Kota Setar,2024/1/1,both,overall,overall,381.8
+Kedah,Kota Setar,2024/1/1,male,overall,overall,189.7
+Kedah,Kota Setar,2024/1/1,female,overall,overall,192.1
+Kedah,Kuala Muda,2024/1/1,both,overall,overall,571.4
+Kedah,Kuala Muda,2024/1/1,male,overall,overall,295.9
+Kedah,Kuala Muda,2024/1/1,female,overall,overall,275.5
+Kedah,Kubang Pasu,2024/1/1,both,overall,overall,253.4
+Kedah,Kubang Pasu,2024/1/1,male,overall,overall,124.9
+Kedah,Kubang Pasu,2024/1/1,female,overall,overall,128.5
+Kedah,Kulim,2024/1/1,both,overall,overall,352.2
+Kedah,Kulim,2024/1/1,male,overall,overall,180.8
+Kedah,Kulim,2024/1/1,female,overall,overall,171.5
+Kedah,Langkawi,2024/1/1,both,overall,overall,99.9
+Kedah,Langkawi,2024/1/1,male,overall,overall,51.7
+Kedah,Langkawi,2024/1/1,female,overall,overall,48.1
+Kedah,Padang Terap,2024/1/1,both,overall,overall,67.7
+Kedah,Padang Terap,2024/1/1,male,overall,overall,35.2
+Kedah,Padang Terap,2024/1/1,female,overall,overall,32.5
+Kedah,Sik,2024/1/1,both,overall,overall,70.2
+Kedah,Sik,2024/1/1,male,overall,overall,35.7
+Kedah,Sik,2024/1/1,female,overall,overall,34.4
+Kedah,Yan,2024/1/1,both,overall,overall,74.7
+Kedah,Yan,2024/1/1,male,overall,overall,38.4
+Kedah,Yan,2024/1/1,female,overall,overall,36.3
+Kedah,Pendang,2024/1/1,both,overall,overall,101.6
+Kedah,Pendang,2024/1/1,male,overall,overall,53.6
+Kedah,Pendang,2024/1/1,female,overall,overall,47.9
+Kedah,Pokok Sena,2024/1/1,both,overall,overall,51
+Kedah,Pokok Sena,2024/1/1,male,overall,overall,27.8
+Kedah,Pokok Sena,2024/1/1,female,overall,overall,23.2
+Kelantan,Bachok,2024/1/1,both,overall,overall,165.5
+Kelantan,Bachok,2024/1/1,male,overall,overall,80.3
+Kelantan,Bachok,2024/1/1,female,overall,overall,85.2
+Kelantan,Kota Bharu,2024/1/1,both,overall,overall,583.8
+Kelantan,Kota Bharu,2024/1/1,male,overall,overall,292
+Kelantan,Kota Bharu,2024/1/1,female,overall,overall,291.8
+Kelantan,Machang,2024/1/1,both,overall,overall,116.7
+Kelantan,Machang,2024/1/1,male,overall,overall,58.1
+Kelantan,Machang,2024/1/1,female,overall,overall,58.6
+Kelantan,Pasir Mas,2024/1/1,both,overall,overall,240.6
+Kelantan,Pasir Mas,2024/1/1,male,overall,overall,121.9
+Kelantan,Pasir Mas,2024/1/1,female,overall,overall,118.7
+Kelantan,Pasir Puteh,2024/1/1,both,overall,overall,143
+Kelantan,Pasir Puteh,2024/1/1,male,overall,overall,70.9
+Kelantan,Pasir Puteh,2024/1/1,female,overall,overall,72.1
+Kelantan,Tanah Merah,2024/1/1,both,overall,overall,158.4
+Kelantan,Tanah Merah,2024/1/1,male,overall,overall,81.3
+Kelantan,Tanah Merah,2024/1/1,female,overall,overall,77
+Kelantan,Tumpat,2024/1/1,both,overall,overall,189.1
+Kelantan,Tumpat,2024/1/1,male,overall,overall,93.6
+Kelantan,Tumpat,2024/1/1,female,overall,overall,95.5
+Kelantan,Gua Musang,2024/1/1,both,overall,overall,110.5
+Kelantan,Gua Musang,2024/1/1,male,overall,overall,60.1
+Kelantan,Gua Musang,2024/1/1,female,overall,overall,50.5
+Kelantan,Kuala Krai,2024/1/1,both,overall,overall,111.8
+Kelantan,Kuala Krai,2024/1/1,male,overall,overall,56.4
+Kelantan,Kuala Krai,2024/1/1,female,overall,overall,55.3
+Kelantan,Jeli,2024/1/1,both,overall,overall,57.8
+Kelantan,Jeli,2024/1/1,male,overall,overall,28.9
+Kelantan,Jeli,2024/1/1,female,overall,overall,28.9
+Kelantan,Kecil Lojing,2024/1/1,both,overall,overall,11.3
+Kelantan,Kecil Lojing,2024/1/1,male,overall,overall,5.9
+Kelantan,Kecil Lojing,2024/1/1,female,overall,overall,5.5
+Melaka,Alor Gajah,2024/1/1,both,overall,overall,260.5
+Melaka,Alor Gajah,2024/1/1,male,overall,overall,135.1
+Melaka,Alor Gajah,2024/1/1,female,overall,overall,125.4
+Melaka,Jasin,2024/1/1,both,overall,overall,156.4
+Melaka,Jasin,2024/1/1,male,overall,overall,83.7
+Melaka,Jasin,2024/1/1,female,overall,overall,72.7
+Melaka,Melaka Tengah,2024/1/1,both,overall,overall,630.1
+Melaka,Melaka Tengah,2024/1/1,male,overall,overall,335.5
+Melaka,Melaka Tengah,2024/1/1,female,overall,overall,294.6
+Negeri Sembilan,Jelebu,2024/1/1,both,overall,overall,48.7
+Negeri Sembilan,Jelebu,2024/1/1,male,overall,overall,26.9
+Negeri Sembilan,Jelebu,2024/1/1,female,overall,overall,21.8
+Negeri Sembilan,Kuala Pilah,2024/1/1,both,overall,overall,72.3
+Negeri Sembilan,Kuala Pilah,2024/1/1,male,overall,overall,37.5
+Negeri Sembilan,Kuala Pilah,2024/1/1,female,overall,overall,34.8
+Negeri Sembilan,Port Dickson,2024/1/1,both,overall,overall,135.2
+Negeri Sembilan,Port Dickson,2024/1/1,male,overall,overall,71.8
+Negeri Sembilan,Port Dickson,2024/1/1,female,overall,overall,63.4
+Negeri Sembilan,Rembau,2024/1/1,both,overall,overall,49.2
+Negeri Sembilan,Rembau,2024/1/1,male,overall,overall,25.3
+Negeri Sembilan,Rembau,2024/1/1,female,overall,overall,24
+Negeri Sembilan,Seremban,2024/1/1,both,overall,overall,712.7
+Negeri Sembilan,Seremban,2024/1/1,male,overall,overall,366.8
+Negeri Sembilan,Seremban,2024/1/1,female,overall,overall,345.9
+Negeri Sembilan,Tampin,2024/1/1,both,overall,overall,90.6
+Negeri Sembilan,Tampin,2024/1/1,male,overall,overall,48.2
+Negeri Sembilan,Tampin,2024/1/1,female,overall,overall,42.5
+Negeri Sembilan,Jempol,2024/1/1,both,overall,overall,131.3
+Negeri Sembilan,Jempol,2024/1/1,male,overall,overall,68
+Negeri Sembilan,Jempol,2024/1/1,female,overall,overall,63.3
+Pahang,Bentong,2024/1/1,both,overall,overall,121.2
+Pahang,Bentong,2024/1/1,male,overall,overall,69.3
+Pahang,Bentong,2024/1/1,female,overall,overall,52
+Pahang,Cameron Highlands,2024/1/1,both,overall,overall,44.5
+Pahang,Cameron Highlands,2024/1/1,male,overall,overall,26.9
+Pahang,Cameron Highlands,2024/1/1,female,overall,overall,17.6
+Pahang,Jerantut,2024/1/1,both,overall,overall,100
+Pahang,Jerantut,2024/1/1,male,overall,overall,53.5
+Pahang,Jerantut,2024/1/1,female,overall,overall,46.4
+Pahang,Kuantan,2024/1/1,both,overall,overall,571.3
+Pahang,Kuantan,2024/1/1,male,overall,overall,297
+Pahang,Kuantan,2024/1/1,female,overall,overall,274.3
+Pahang,Lipis,2024/1/1,both,overall,overall,102.2
+Pahang,Lipis,2024/1/1,male,overall,overall,55.1
+Pahang,Lipis,2024/1/1,female,overall,overall,47.1
+Pahang,Pekan,2024/1/1,both,overall,overall,128
+Pahang,Pekan,2024/1/1,male,overall,overall,69
+Pahang,Pekan,2024/1/1,female,overall,overall,58.9
+Pahang,Raub,2024/1/1,both,overall,overall,100.1
+Pahang,Raub,2024/1/1,male,overall,overall,53.6
+Pahang,Raub,2024/1/1,female,overall,overall,46.5
+Pahang,Temerloh,2024/1/1,both,overall,overall,177.9
+Pahang,Temerloh,2024/1/1,male,overall,overall,92.7
+Pahang,Temerloh,2024/1/1,female,overall,overall,85.3
+Pahang,Rompin,2024/1/1,both,overall,overall,102.9
+Pahang,Rompin,2024/1/1,male,overall,overall,55.6
+Pahang,Rompin,2024/1/1,female,overall,overall,47.3
+Pahang,Maran,2024/1/1,both,overall,overall,119.1
+Pahang,Maran,2024/1/1,male,overall,overall,63
+Pahang,Maran,2024/1/1,female,overall,overall,56.1
+Pahang,Bera,2024/1/1,both,overall,overall,101
+Pahang,Bera,2024/1/1,male,overall,overall,54.2
+Pahang,Bera,2024/1/1,female,overall,overall,46.9
+Pulau Pinang,Seberang Perai Tengah,2024/1/1,both,overall,overall,443.2
+Pulau Pinang,Seberang Perai Tengah,2024/1/1,male,overall,overall,236.9
+Pulau Pinang,Seberang Perai Tengah,2024/1/1,female,overall,overall,206.3
+Pulau Pinang,Seberang Perai Utara,2024/1/1,both,overall,overall,351
+Pulau Pinang,Seberang Perai Utara,2024/1/1,male,overall,overall,178.5
+Pulau Pinang,Seberang Perai Utara,2024/1/1,female,overall,overall,172.5
+Pulau Pinang,Seberang Perai Selatan,2024/1/1,both,overall,overall,188.1
+Pulau Pinang,Seberang Perai Selatan,2024/1/1,male,overall,overall,94.7
+Pulau Pinang,Seberang Perai Selatan,2024/1/1,female,overall,overall,93.4
+Pulau Pinang,Timur Laut,2024/1/1,both,overall,overall,569.9
+Pulau Pinang,Timur Laut,2024/1/1,male,overall,overall,289.3
+Pulau Pinang,Timur Laut,2024/1/1,female,overall,overall,280.5
+Pulau Pinang,Barat Daya,2024/1/1,both,overall,overall,248.3
+Pulau Pinang,Barat Daya,2024/1/1,male,overall,overall,124.4
+Pulau Pinang,Barat Daya,2024/1/1,female,overall,overall,123.9
+Perak,Batang Padang,2024/1/1,both,overall,overall,126.7
+Perak,Batang Padang,2024/1/1,male,overall,overall,68
+Perak,Batang Padang,2024/1/1,female,overall,overall,58.7
+Perak,Manjung,2024/1/1,both,overall,overall,255
+Perak,Manjung,2024/1/1,male,overall,overall,137.4
+Perak,Manjung,2024/1/1,female,overall,overall,117.6
+Perak,Kinta,2024/1/1,both,overall,overall,923.3
+Perak,Kinta,2024/1/1,male,overall,overall,484.1
+Perak,Kinta,2024/1/1,female,overall,overall,439.2
+Perak,Kerian,2024/1/1,both,overall,overall,169.6
+Perak,Kerian,2024/1/1,male,overall,overall,87.2
+Perak,Kerian,2024/1/1,female,overall,overall,82.4
+Perak,Kuala Kangsar,2024/1/1,both,overall,overall,180
+Perak,Kuala Kangsar,2024/1/1,male,overall,overall,91.7
+Perak,Kuala Kangsar,2024/1/1,female,overall,overall,88.3
+Perak,Larut Dan Matang,2024/1/1,both,overall,overall,278.2
+Perak,Larut Dan Matang,2024/1/1,male,overall,overall,144.9
+Perak,Larut Dan Matang,2024/1/1,female,overall,overall,133.3
+Perak,Hilir Perak,2024/1/1,both,overall,overall,141.9
+Perak,Hilir Perak,2024/1/1,male,overall,overall,74.6
+Perak,Hilir Perak,2024/1/1,female,overall,overall,67.3
+Perak,Hulu Perak,2024/1/1,both,overall,overall,98.3
+Perak,Hulu Perak,2024/1/1,male,overall,overall,51.2
+Perak,Hulu Perak,2024/1/1,female,overall,overall,47.1
+Perak,Perak Tengah,2024/1/1,both,overall,overall,98.7
+Perak,Perak Tengah,2024/1/1,male,overall,overall,51.4
+Perak,Perak Tengah,2024/1/1,female,overall,overall,47.3
+Perak,Kampar,2024/1/1,both,overall,overall,99.9
+Perak,Kampar,2024/1/1,male,overall,overall,51.3
+Perak,Kampar,2024/1/1,female,overall,overall,48.6
+Perak,Muallim,2024/1/1,both,overall,overall,79.3
+Perak,Muallim,2024/1/1,male,overall,overall,37.9
+Perak,Muallim,2024/1/1,female,overall,overall,41.3
+Perak,Bagan Datuk,2024/1/1,both,overall,overall,83.4
+Perak,Bagan Datuk,2024/1/1,male,overall,overall,46.2
+Perak,Bagan Datuk,2024/1/1,female,overall,overall,37.3
+Perak,Selama,2024/1/1,both,overall,overall,35.2
+Perak,Selama,2024/1/1,male,overall,overall,18
+Perak,Selama,2024/1/1,female,overall,overall,17.2
+Selangor,Gombak,2024/1/1,both,overall,overall,980.3
+Selangor,Gombak,2024/1/1,male,overall,overall,511.8
+Selangor,Gombak,2024/1/1,female,overall,overall,468.5
+Selangor,Klang,2024/1/1,both,overall,overall,1174.9
+Selangor,Klang,2024/1/1,male,overall,overall,651.3
+Selangor,Klang,2024/1/1,female,overall,overall,523.5
+Selangor,Kuala Langat,2024/1/1,both,overall,overall,326.3
+Selangor,Kuala Langat,2024/1/1,male,overall,overall,171.3
+Selangor,Kuala Langat,2024/1/1,female,overall,overall,155
+Selangor,Kuala Selangor,2024/1/1,both,overall,overall,298.4
+Selangor,Kuala Selangor,2024/1/1,male,overall,overall,153.4
+Selangor,Kuala Selangor,2024/1/1,female,overall,overall,145
+Selangor,Petaling,2024/1/1,both,overall,overall,2360
+Selangor,Petaling,2024/1/1,male,overall,overall,1254.1
+Selangor,Petaling,2024/1/1,female,overall,overall,1105.9
+Selangor,Sabak Bernam,2024/1/1,both,overall,overall,110.3
+Selangor,Sabak Bernam,2024/1/1,male,overall,overall,57.6
+Selangor,Sabak Bernam,2024/1/1,female,overall,overall,52.7
+Selangor,Sepang,2024/1/1,both,overall,overall,346.9
+Selangor,Sepang,2024/1/1,male,overall,overall,186.3
+Selangor,Sepang,2024/1/1,female,overall,overall,160.6
+Selangor,Ulu Langat,2024/1/1,both,overall,overall,1508.1
+Selangor,Ulu Langat,2024/1/1,male,overall,overall,809.5
+Selangor,Ulu Langat,2024/1/1,female,overall,overall,698.5
+Selangor,Ulu Selangor,2024/1/1,both,overall,overall,258.1
+Selangor,Ulu Selangor,2024/1/1,male,overall,overall,138.6
+Selangor,Ulu Selangor,2024/1/1,female,overall,overall,119.6
+Terengganu,Besut,2024/1/1,both,overall,overall,165.4
+Terengganu,Besut,2024/1/1,male,overall,overall,84.3
+Terengganu,Besut,2024/1/1,female,overall,overall,81.1
+Terengganu,Dungun,2024/1/1,both,overall,overall,168.1
+Terengganu,Dungun,2024/1/1,male,overall,overall,86.5
+Terengganu,Dungun,2024/1/1,female,overall,overall,81.6
+Terengganu,Kemaman,2024/1/1,both,overall,overall,231.8
+Terengganu,Kemaman,2024/1/1,male,overall,overall,123
+Terengganu,Kemaman,2024/1/1,female,overall,overall,108.8
+Terengganu,Kuala Terengganu,2024/1/1,both,overall,overall,245.4
+Terengganu,Kuala Terengganu,2024/1/1,male,overall,overall,124
+Terengganu,Kuala Terengganu,2024/1/1,female,overall,overall,121.4
+Terengganu,Marang,2024/1/1,both,overall,overall,126.7
+Terengganu,Marang,2024/1/1,male,overall,overall,64.7
+Terengganu,Marang,2024/1/1,female,overall,overall,62.1
+Terengganu,Hulu Terengganu,2024/1/1,both,overall,overall,74.6
+Terengganu,Hulu Terengganu,2024/1/1,male,overall,overall,39.9
+Terengganu,Hulu Terengganu,2024/1/1,female,overall,overall,34.7
+Terengganu,Setiu,2024/1/1,both,overall,overall,64.3
+Terengganu,Setiu,2024/1/1,male,overall,overall,32.9
+Terengganu,Setiu,2024/1/1,female,overall,overall,31.4
+Terengganu,Kuala Nerus,2024/1/1,both,overall,overall,155.9
+Terengganu,Kuala Nerus,2024/1/1,male,overall,overall,77.8
+Terengganu,Kuala Nerus,2024/1/1,female,overall,overall,78.1
+Sabah,Tawau,2024/1/1,both,overall,overall,413.6
+Sabah,Tawau,2024/1/1,male,overall,overall,215.9
+Sabah,Tawau,2024/1/1,female,overall,overall,197.7
+Sabah,Lahad Datu,2024/1/1,both,overall,overall,253.7
+Sabah,Lahad Datu,2024/1/1,male,overall,overall,135.1
+Sabah,Lahad Datu,2024/1/1,female,overall,overall,118.7
+Sabah,Semporna,2024/1/1,both,overall,overall,199.3
+Sabah,Semporna,2024/1/1,male,overall,overall,102.4
+Sabah,Semporna,2024/1/1,female,overall,overall,96.9
+Sabah,Sandakan,2024/1/1,both,overall,overall,499.4
+Sabah,Sandakan,2024/1/1,male,overall,overall,259
+Sabah,Sandakan,2024/1/1,female,overall,overall,240.5
+Sabah,Kinabatangan,2024/1/1,both,overall,overall,164.2
+Sabah,Kinabatangan,2024/1/1,male,overall,overall,91.4
+Sabah,Kinabatangan,2024/1/1,female,overall,overall,72.8
+Sabah,Beluran,2024/1/1,both,overall,overall,90
+Sabah,Beluran,2024/1/1,male,overall,overall,48.9
+Sabah,Beluran,2024/1/1,female,overall,overall,41
+Sabah,Kota Kinabalu,2024/1/1,both,overall,overall,547
+Sabah,Kota Kinabalu,2024/1/1,male,overall,overall,281.9
+Sabah,Kota Kinabalu,2024/1/1,female,overall,overall,265.1
+Sabah,Ranau,2024/1/1,both,overall,overall,88.7
+Sabah,Ranau,2024/1/1,male,overall,overall,45.7
+Sabah,Ranau,2024/1/1,female,overall,overall,43
+Sabah,Kota Belud,2024/1/1,both,overall,overall,110.9
+Sabah,Kota Belud,2024/1/1,male,overall,overall,55.8
+Sabah,Kota Belud,2024/1/1,female,overall,overall,55.1
+Sabah,Tuaran,2024/1/1,both,overall,overall,142.1
+Sabah,Tuaran,2024/1/1,male,overall,overall,72.1
+Sabah,Tuaran,2024/1/1,female,overall,overall,70.1
+Sabah,Penampang,2024/1/1,both,overall,overall,167.6
+Sabah,Penampang,2024/1/1,male,overall,overall,88.7
+Sabah,Penampang,2024/1/1,female,overall,overall,78.8
+Sabah,Papar,2024/1/1,both,overall,overall,156.3
+Sabah,Papar,2024/1/1,male,overall,overall,83.3
+Sabah,Papar,2024/1/1,female,overall,overall,73.1
+Sabah,Kudat,2024/1/1,both,overall,overall,93.2
+Sabah,Kudat,2024/1/1,male,overall,overall,47.4
+Sabah,Kudat,2024/1/1,female,overall,overall,45.8
+Sabah,Kota Marudu,2024/1/1,both,overall,overall,73.7
+Sabah,Kota Marudu,2024/1/1,male,overall,overall,37.8
+Sabah,Kota Marudu,2024/1/1,female,overall,overall,35.9
+Sabah,Pitas,2024/1/1,both,overall,overall,38.5
+Sabah,Pitas,2024/1/1,male,overall,overall,19.9
+Sabah,Pitas,2024/1/1,female,overall,overall,18.7
+Sabah,Beaufort,2024/1/1,both,overall,overall,77.6
+Sabah,Beaufort,2024/1/1,male,overall,overall,40.1
+Sabah,Beaufort,2024/1/1,female,overall,overall,37.5
+Sabah,Kuala Penyu,2024/1/1,both,overall,overall,24.5
+Sabah,Kuala Penyu,2024/1/1,male,overall,overall,12.4
+Sabah,Kuala Penyu,2024/1/1,female,overall,overall,12.2
+Sabah,Sipitang,2024/1/1,both,overall,overall,40.5
+Sabah,Sipitang,2024/1/1,male,overall,overall,21.1
+Sabah,Sipitang,2024/1/1,female,overall,overall,19.3
+Sabah,Tenom,2024/1/1,both,overall,overall,53.8
+Sabah,Tenom,2024/1/1,male,overall,overall,27.7
+Sabah,Tenom,2024/1/1,female,overall,overall,26.1
+Sabah,Nabawan,2024/1/1,both,overall,overall,30.7
+Sabah,Nabawan,2024/1/1,male,overall,overall,16.3
+Sabah,Nabawan,2024/1/1,female,overall,overall,14.4
+Sabah,Keningau,2024/1/1,both,overall,overall,158.1
+Sabah,Keningau,2024/1/1,male,overall,overall,81.5
+Sabah,Keningau,2024/1/1,female,overall,overall,76.6
+Sabah,Tambunan,2024/1/1,both,overall,overall,33.3
+Sabah,Tambunan,2024/1/1,male,overall,overall,16.9
+Sabah,Tambunan,2024/1/1,female,overall,overall,16.4
+Sabah,Kunak,2024/1/1,both,overall,overall,79.6
+Sabah,Kunak,2024/1/1,male,overall,overall,43.1
+Sabah,Kunak,2024/1/1,female,overall,overall,36.4
+Sabah,Tongod,2024/1/1,both,overall,overall,45
+Sabah,Tongod,2024/1/1,male,overall,overall,24.3
+Sabah,Tongod,2024/1/1,female,overall,overall,20.7
+Sabah,Putatan,2024/1/1,both,overall,overall,71
+Sabah,Putatan,2024/1/1,male,overall,overall,37.2
+Sabah,Putatan,2024/1/1,female,overall,overall,33.8
+Sabah,Telupid,2024/1/1,both,overall,overall,31.2
+Sabah,Telupid,2024/1/1,male,overall,overall,17
+Sabah,Telupid,2024/1/1,female,overall,overall,14.2
+Sabah,Kalabakan,2024/1/1,both,overall,overall,58.7
+Sabah,Kalabakan,2024/1/1,male,overall,overall,32.4
+Sabah,Kalabakan,2024/1/1,female,overall,overall,26.3
+Sarawak,Kuching,2024/1/1,both,overall,overall,625.3
+Sarawak,Kuching,2024/1/1,male,overall,overall,315.1
+Sarawak,Kuching,2024/1/1,female,overall,overall,310.1
+Sarawak,Bau,2024/1/1,both,overall,overall,53.9
+Sarawak,Bau,2024/1/1,male,overall,overall,27.9
+Sarawak,Bau,2024/1/1,female,overall,overall,26
+Sarawak,Lundu,2024/1/1,both,overall,overall,34.4
+Sarawak,Lundu,2024/1/1,male,overall,overall,18.4
+Sarawak,Lundu,2024/1/1,female,overall,overall,16
+Sarawak,Samarahan,2024/1/1,both,overall,overall,135.5
+Sarawak,Samarahan,2024/1/1,male,overall,overall,65.7
+Sarawak,Samarahan,2024/1/1,female,overall,overall,69.8
+Sarawak,Serian,2024/1/1,both,overall,overall,87.6
+Sarawak,Serian,2024/1/1,male,overall,overall,44.8
+Sarawak,Serian,2024/1/1,female,overall,overall,42.8
+Sarawak,Simunjan,2024/1/1,both,overall,overall,37
+Sarawak,Simunjan,2024/1/1,male,overall,overall,19.4
+Sarawak,Simunjan,2024/1/1,female,overall,overall,17.7
+Sarawak,Sri Aman,2024/1/1,both,overall,overall,61.3
+Sarawak,Sri Aman,2024/1/1,male,overall,overall,31.6
+Sarawak,Sri Aman,2024/1/1,female,overall,overall,29.7
+Sarawak,Lubok Antu,2024/1/1,both,overall,overall,24.6
+Sarawak,Lubok Antu,2024/1/1,male,overall,overall,12.4
+Sarawak,Lubok Antu,2024/1/1,female,overall,overall,12.2
+Sarawak,Betong,2024/1/1,both,overall,overall,37
+Sarawak,Betong,2024/1/1,male,overall,overall,19.2
+Sarawak,Betong,2024/1/1,female,overall,overall,17.8
+Sarawak,Saratok,2024/1/1,both,overall,overall,23.5
+Sarawak,Saratok,2024/1/1,male,overall,overall,11.6
+Sarawak,Saratok,2024/1/1,female,overall,overall,12
+Sarawak,Sarikei,2024/1/1,both,overall,overall,45
+Sarawak,Sarikei,2024/1/1,male,overall,overall,22.6
+Sarawak,Sarikei,2024/1/1,female,overall,overall,22.4
+Sarawak,Maradong,2024/1/1,both,overall,overall,20.8
+Sarawak,Maradong,2024/1/1,male,overall,overall,10.4
+Sarawak,Maradong,2024/1/1,female,overall,overall,10.5
+Sarawak,Daro,2024/1/1,both,overall,overall,20.1
+Sarawak,Daro,2024/1/1,male,overall,overall,10.8
+Sarawak,Daro,2024/1/1,female,overall,overall,9.3
+Sarawak,Julau,2024/1/1,both,overall,overall,15.6
+Sarawak,Julau,2024/1/1,male,overall,overall,7.7
+Sarawak,Julau,2024/1/1,female,overall,overall,7.9
+Sarawak,Sibu,2024/1/1,both,overall,overall,255.3
+Sarawak,Sibu,2024/1/1,male,overall,overall,131.8
+Sarawak,Sibu,2024/1/1,female,overall,overall,123.4
+Sarawak,Dalat,2024/1/1,both,overall,overall,21.7
+Sarawak,Dalat,2024/1/1,male,overall,overall,11.3
+Sarawak,Dalat,2024/1/1,female,overall,overall,10.5
+Sarawak,Mukah,2024/1/1,both,overall,overall,42.5
+Sarawak,Mukah,2024/1/1,male,overall,overall,22.3
+Sarawak,Mukah,2024/1/1,female,overall,overall,20.2
+Sarawak,Kanowit,2024/1/1,both,overall,overall,25
+Sarawak,Kanowit,2024/1/1,male,overall,overall,12.5
+Sarawak,Kanowit,2024/1/1,female,overall,overall,12.5
+Sarawak,Bintulu,2024/1/1,both,overall,overall,188.9
+Sarawak,Bintulu,2024/1/1,male,overall,overall,102.5
+Sarawak,Bintulu,2024/1/1,female,overall,overall,86.4
+Sarawak,Tatau,2024/1/1,both,overall,overall,32
+Sarawak,Tatau,2024/1/1,male,overall,overall,17.4
+Sarawak,Tatau,2024/1/1,female,overall,overall,14.6
+Sarawak,Kapit,2024/1/1,both,overall,overall,37
+Sarawak,Kapit,2024/1/1,male,overall,overall,18.6
+Sarawak,Kapit,2024/1/1,female,overall,overall,18.3
+Sarawak,Song,2024/1/1,both,overall,overall,10.3
+Sarawak,Song,2024/1/1,male,overall,overall,5
+Sarawak,Song,2024/1/1,female,overall,overall,5.3
+Sarawak,Belaga,2024/1/1,both,overall,overall,22.5
+Sarawak,Belaga,2024/1/1,male,overall,overall,12.8
+Sarawak,Belaga,2024/1/1,female,overall,overall,9.8
+Sarawak,Miri,2024/1/1,both,overall,overall,256.2
+Sarawak,Miri,2024/1/1,male,overall,overall,134
+Sarawak,Miri,2024/1/1,female,overall,overall,122.2
+Sarawak,Marudi,2024/1/1,both,overall,overall,18.4
+Sarawak,Marudi,2024/1/1,male,overall,overall,9.7
+Sarawak,Marudi,2024/1/1,female,overall,overall,8.7
+Sarawak,Limbang,2024/1/1,both,overall,overall,46.5
+Sarawak,Limbang,2024/1/1,male,overall,overall,23.9
+Sarawak,Limbang,2024/1/1,female,overall,overall,22.6
+Sarawak,Lawas,2024/1/1,both,overall,overall,38.1
+Sarawak,Lawas,2024/1/1,male,overall,overall,19.4
+Sarawak,Lawas,2024/1/1,female,overall,overall,18.7
+Sarawak,Matu,2024/1/1,both,overall,overall,16.4
+Sarawak,Matu,2024/1/1,male,overall,overall,8.8
+Sarawak,Matu,2024/1/1,female,overall,overall,7.6
+Sarawak,Asajaya,2024/1/1,both,overall,overall,34.9
+Sarawak,Asajaya,2024/1/1,male,overall,overall,17.8
+Sarawak,Asajaya,2024/1/1,female,overall,overall,17.1
+Sarawak,Pakan,2024/1/1,both,overall,overall,15.7
+Sarawak,Pakan,2024/1/1,male,overall,overall,8.3
+Sarawak,Pakan,2024/1/1,female,overall,overall,7.4
+Sarawak,Selangau,2024/1/1,both,overall,overall,20.5
+Sarawak,Selangau,2024/1/1,male,overall,overall,10.6
+Sarawak,Selangau,2024/1/1,female,overall,overall,9.9
+Sarawak,Tebedu,2024/1/1,both,overall,overall,25.7
+Sarawak,Tebedu,2024/1/1,male,overall,overall,13
+Sarawak,Tebedu,2024/1/1,female,overall,overall,12.7
+Sarawak,Pusa,2024/1/1,both,overall,overall,20.2
+Sarawak,Pusa,2024/1/1,male,overall,overall,10.4
+Sarawak,Pusa,2024/1/1,female,overall,overall,9.8
+Sarawak,Kabong,2024/1/1,both,overall,overall,19
+Sarawak,Kabong,2024/1/1,male,overall,overall,9.5
+Sarawak,Kabong,2024/1/1,female,overall,overall,9.4
+Sarawak,Tanjung Manis,2024/1/1,both,overall,overall,7.9
+Sarawak,Tanjung Manis,2024/1/1,male,overall,overall,4.1
+Sarawak,Tanjung Manis,2024/1/1,female,overall,overall,3.8
+Sarawak,Sebauh,2024/1/1,both,overall,overall,31.4
+Sarawak,Sebauh,2024/1/1,male,overall,overall,17.8
+Sarawak,Sebauh,2024/1/1,female,overall,overall,13.6
+Sarawak,Bukit Mabong,2024/1/1,both,overall,overall,10.6
+Sarawak,Bukit Mabong,2024/1/1,male,overall,overall,6.4
+Sarawak,Bukit Mabong,2024/1/1,female,overall,overall,4.2
+Sarawak,Subis,2024/1/1,both,overall,overall,55.4
+Sarawak,Subis,2024/1/1,male,overall,overall,30.5
+Sarawak,Subis,2024/1/1,female,overall,overall,24.9
+Sarawak,Beluru,2024/1/1,both,overall,overall,26.8
+Sarawak,Beluru,2024/1/1,male,overall,overall,14.3
+Sarawak,Beluru,2024/1/1,female,overall,overall,12.5
+Sarawak,Telang Usan,2024/1/1,both,overall,overall,17.5
+Sarawak,Telang Usan,2024/1/1,male,overall,overall,9.3
+Sarawak,Telang Usan,2024/1/1,female,overall,overall,8.2
+Perlis,Perlis,2024/1/1,both,overall,overall,296.8
+Perlis,Perlis,2024/1/1,male,overall,overall,148
+Perlis,Perlis,2024/1/1,female,overall,overall,148.8
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024/1/1,both,overall,overall,2067.5
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024/1/1,male,overall,overall,1116.7
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024/1/1,female,overall,overall,950.8
+W.P. Labuan,W.P. Labuan,2024/1/1,both,overall,overall,100.8
+W.P. Labuan,W.P. Labuan,2024/1/1,male,overall,overall,51.7
+W.P. Labuan,W.P. Labuan,2024/1/1,female,overall,overall,49.1
+W.P. Putrajaya,W.P. Putrajaya,2024/1/1,both,overall,overall,120.3
+W.P. Putrajaya,W.P. Putrajaya,2024/1/1,male,overall,overall,59.4
+W.P. Putrajaya,W.P. Putrajaya,2024/1/1,female,overall,overall,60.9
